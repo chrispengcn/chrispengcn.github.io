@@ -60,4 +60,4 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
