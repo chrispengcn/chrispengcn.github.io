@@ -1,0 +1,12 @@
+---
+ID: 309
+post_title: 'You&#8217;ll Love This Comforting Breakfast!'
+author: chris
+post_excerpt: ""
+layout: post
+permalink: >
+  http://hss5.com/2013/09/09/youll-love-this-comforting-breakfast/
+published: true
+post_date: 2013-09-09 00:54:22
+---
+<p align="left"> Are you looking for a really satisfying breakfast that's also really easy? <a href="http://blog.8toy.com/wp-content/uploads/2013/09/breakfast.jpg"><img style="border-bottom: 0px; border-left: 0px; display: inline; margin-left: 0px; border-top: 0px; margin-right: 0px; border-right: 0px" title="breakfast" border="0" alt="breakfast" src="http://blog.8toy.com/wp-content/uploads/2013/09/breakfast_thumb.jpg" width="310" height="388"></a></p> <p align="left">Why not try making these cheesy grits and baked eggs? This hearty meal takes just a few minutes to create and can easily be scaled up to feed a crowd. Stuffed with baby arugula and topped with cheddar cheese, this comforting breakfast is also packed with nutrients and protein. Try it out this weekend and the <br>whole school year! <br><b>Baked Eggs and Grits <br>Related:</b> <a href="http://www.marthastewart.com/274755/kitchen-shortcuts-and-timesavers/@center/277007/kitchen-design?xsc=synd_yshine">15 Kitchen Shortcuts That Will Change the Way You Cook</a><br>Olive oil, for brushing <br>3/4 cup instant grits <br>1 cup baby arugula <br>1/4 cup grated cheddar (2 ounces), divided <br>Salt and pepper <br>4 large eggs <br><b>Related:</b> <a href="http://www.marthastewart.com/275672/one-dish-dinners/@center/854190/comfort-food-recipes?xsc=synd_yshine">Fast, One-Pot Meal Ideas To Feed the Whole Family</a><br><b>1.</b> Preheat oven to 400 degrees. Brush four 8-ounce ramekins or other small ovenproof dishes with oil. Prepare grits according to package instructions. Stir in arugula and 2 tablespoons cheddar, and cook until <br>cheddar melts, about 30 seconds. Season with salt and pepper. <br><b>2.</b> Divide grits among dishes. Make a well in each, then crack an egg into each well; season. Bake on a rimmed baking sheet, until whites are set but yolks are still runny, about 20 minutes, rotating sheet halfway <br>through. To serve, top grits with remaining 2 tablespoons cheddar and a sprinkle of pepper.</p>

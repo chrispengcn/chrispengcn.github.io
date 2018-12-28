@@ -1,0 +1,11 @@
+---
+ID: 245
+post_title: 用yun配置Centos
+author: chris
+post_excerpt: ""
+layout: post
+permalink: 'http://hss5.com/2013/08/31/%e7%94%a8yun%e9%85%8d%e7%bd%aecentos/'
+published: true
+post_date: 2013-08-31 19:51:48
+---
+<h4><a href="http://www.cppblog.com/zeropool/articles/152485.html">用yun配置Centos</a></h4> <p>Centos 里的 yum 在线安装很慢.以下是替换为中国CentOS镜像服务器!<br>中国官方镜像网站: <a href="http://centos.ustc.edu.cn/">http://centos.ustc.edu.cn/</a><br>/* 使用说明 */ <br>cd /etc/yum.repos.d[进入yum.repos.d目录] <br>mv CentOS-Base.repo CentOS-Base.repo.save[修改源文件名称备份] <br>wget <a href="http://centos.ustc.edu.cn/CentOS-Base.repo.5">http://centos.ustc.edu.cn/CentOS-Base.repo.5</a>[下载] <br>mv CentOS-Base.repo.5 CentOS-Base.repo[下载后的文件更名] <br>1. 更新系统内核到最新. <br>yum -y update <br>系统更新后,如果yum安装时提示错误信息,请执行以下命令修复. <br>rpm –import /etc/pki/rpm-gpg/RPM-GPG-KEY* <br>2. 安装Apahce, PHP, Mysql, 以及php连接mysql库组件 <br>复制代码 代码如下:<br>yum -y install httpd php mysql mysql-server php-mysql <br>//安装mysql扩展 <br>yum -y install mysql-connector-odbc mysql-devel libdbi-dbd-mysql <br>//安装php的扩展 <br>yum -y install php-gd php-xml php-mbstring php-ldap php-pear php-xmlrpc <br>//安装apache扩展 <br>yum -y install httpd-manual mod_ssl mod_perl mod_auth_mysql <br>一次性粘贴安装: <br>yum -y install httpd php mysql mysql-server php-mysql httpd-manual mod_ssl mod_perl mod_auth_mysql php-mcrypt php-gd php-xml php-mbstring php-ldap php-pear php-xmlrpc mysql-connector-odbc mysql-devel libdbi-dbd-mysql  <p>3. 启动服务配置 <br>复制代码 代码如下:<br>/sbin/chkconfig httpd on [设置apache为自启动] <br>/sbin/chkconfig –-add mysqld [mysql服务] <br>/sbin/chkconfig mysqld on [mysqld服务] <br>/sbin/service httpd start [自启动 httpd 服务] <br>/sbin/service mysqld start [自启动mysqld服务]  <p>4.设置mysql数据库root帐号密码。 <br>mysqladmin -u root password ‘新密码' [引号内填密码] <br>让mysql数据库更安全 <br>复制代码 代码如下:<br>mysql -u root -p [此时会要求你输入刚刚设置的密码，输入后回车即可 <br>mysql&gt; DROP DATABASE test; [删除test数据库] <br>mysql&gt; DELETE FROM mysql.user WHERE user = ”; [删除匿名帐户] <br>mysql&gt; FLUSH PRIVILEGES; [重载权限] <br>mysql&gt; GRANT ALL PRIVILEGES ON *.* TO <a href="mailto:%E2%80%98root%27@%27192.168.1.13%E2%80%B2">‘root'@'192.168.1.13′</a> IDENTIFIED BY ‘密码' WITH GRANT OPTION; [增加远程链接用户]  <p>按照以上的安装方式, 配置出来的默认站点目录为/var/www/html/ <br>测试环境 <br>rpm -qa |grep mysql <br>rpm -qa |grep httpd <br>rpm -qa |grep php  <p>重启apache<br>service httpd restart</p>
