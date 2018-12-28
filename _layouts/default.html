@@ -1,13 +1,28 @@
+---
+layout: compress
+--- 
+
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
-    <body>
-        {% include navbar.html %}
-        {% include top.html %}
-        {% include about.html %}
-        {% include instagram.html %}
-        {% include contacts.html %}
-        {% include copyright.html %}
-        {% include tracking.html %}
-    </body>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+    
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+ {% if site.analytics %}{% include analytics.html %}{% endif %}
+  </body>
+
 </html>
