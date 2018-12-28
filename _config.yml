@@ -59,3 +59,5 @@ sass:
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
+
+theme: jekyll-theme-dinky
