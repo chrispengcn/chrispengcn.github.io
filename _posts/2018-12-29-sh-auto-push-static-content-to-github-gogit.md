@@ -33,7 +33,9 @@ post_date: 2018-12-29 18:18:55
 <div class="visible-lg">
 <div class="side-widget">
 <div id="side-widget-votes-btn" class="stream__item-zan btn btn-default mt0 mb15 ml0 mr0 pt0 pb0 pl0 pr0 "><span id="side-widget-votes-num" class="stream__item-zan-number">0</span></div>
-<i id="side-widget-bookmarks-btn" class="fa fa-bookmark item "></i><i class="fa fa-weibo item"></i><i class="fa fa-weixin item" title="" data-toggle="popover" data-placement="right" data-original-title=""></i><i class="fa fa-twitter item"></i><i class="fa fa-facebook item"></i><i class="fa fa-arrow-up item"></i></div>
+&nbsp;
+
+</div>
 </div>
 <div class="article fmt article__content" data-id="1190000004701784" data-license="cc">
 <h1 id="articleHeader0">gogit</h1>
