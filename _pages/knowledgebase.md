@@ -1,6 +1,6 @@
 ---
 ID: 1507
-post_title: 首页
+post_title: HOME
 author: chrispengcn
 post_excerpt: ""
 layout: page
