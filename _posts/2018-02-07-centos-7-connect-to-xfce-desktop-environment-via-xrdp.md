@@ -84,7 +84,7 @@ $ chmod a+x ~/.Xclients
 The rdesktop connection is as the following.
 <div class="figure">
 
-<img src="https://dl-web.dropbox.com/s/4gxel5d89mx5uiy/0001_xrdp-xfce.png" alt="0001_xrdp-xfce.png" width="640px" vspace="15px" />
+<img class="alignnone size-full wp-image-2108" src="http://hss5.com/wp-content/uploads/2019/01/0001_xrdp-xfce.png" width="1024" height="805" alt="0001_xrdp-xfce.png" />
 
 </div>
 install xfce4
