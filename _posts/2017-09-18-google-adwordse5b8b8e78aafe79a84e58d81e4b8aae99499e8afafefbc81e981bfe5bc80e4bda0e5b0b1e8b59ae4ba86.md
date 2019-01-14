@@ -15,7 +15,7 @@ post_date: 2017-09-18 08:15:18
 ---
 <div class="fetch-read fetch-view" data-fetch-type="article" data-fetch-id="26817">
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161431408222.jpg" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2126" src="http://hss5.com/wp-content/uploads/2019/01/201706161431408222.jpg" width="750" height="386" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 <span class="imgae-source">图片来源/ 123rf.com.cn</span>
 
@@ -25,7 +25,7 @@ post_date: 2017-09-18 08:15:18
 
 有使用过AdWords广告的卖家都应该知道，设置关键字的时候需要选择关键字比对(keyword matching type)的模式，当中包括完全匹配(exact match)，词组匹配(phrase match)，广泛匹配+配修饰符(broad match modifier)，广泛匹配(broad match)，如下表：
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432107611.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2127" src="http://hss5.com/wp-content/uploads/2019/01/201706161432107611.png" width="640" height="245" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 因为广泛匹配(broad match)模式的关键字可比对的搜索词最广泛，所以一般人会认为它是最好的选择，能带来最大的潜在流量。以为选了这个模式就可以一劳永逸的话，那就大错特错!
 
@@ -41,7 +41,7 @@ post_date: 2017-09-18 08:15:18
 
 好的结构会和广告表现直接挂勾，而且拥有正确的结构也会让你在管理上、分析表现上都事半功倍。
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432201490.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2128" src="http://hss5.com/wp-content/uploads/2019/01/201706161432201490.png" width="576" height="399" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 很多做Google AdWords营销的新手，因为缺乏经验，考虑不够周全，很容易会乱作一通，把所有不同类别的关键字放在一起，这样会多方面影响到广告的实际表现。
 
@@ -59,13 +59,13 @@ post_date: 2017-09-18 08:15:18
 
 那为什么不好的活动结构会影响你的点击率(CTR)呢？看看下图，一个标准的结构概念：
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432296022.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2129" src="http://hss5.com/wp-content/uploads/2019/01/201706161432296022.png" width="640" height="419" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 试想想，如果你是卖A和B的，而你把A和B的关键字放到同一个组群内，你只能在组群内放置同时适用于A和B的通用文案，而非针对各产品及组群内关键字所写的文案。
 
 比如你搜索「网上买书」，看到下面两个广告，你会倾向点击那一个?
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432377625.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2130" src="http://hss5.com/wp-content/uploads/2019/01/201706161432377625.png" width="644" height="260" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 相信你会倾向点击B吧。(所以不要像A那样犯错了)
 
@@ -117,7 +117,7 @@ post_date: 2017-09-18 08:15:18
 
 值得一提的是，在你进行广告文案测试时，要注意设定好文案展示的设定：
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432476454.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2131" src="http://hss5.com/wp-content/uploads/2019/01/201706161432476454.png" width="655" height="146" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 <strong>错误四：忽略定期检察搜索词报告，并定期增加否定匹配关键字的重要性</strong>
 
@@ -131,7 +131,7 @@ post_date: 2017-09-18 08:15:18
 
 可于账户内的这个地方找到：
 
-<img title="Google AdWords营销常犯的十个错误" src="http://pic.cifnews.com/upload/201706/16/201706161432550469.png" alt="Google AdWords营销常犯的十个错误" />
+<img class="alignnone size-full wp-image-2132" src="http://hss5.com/wp-content/uploads/2019/01/201706161432550469.png" width="644" height="338" alt="Google AdWords营销常犯的十个错误" title="Google AdWords营销常犯的十个错误" />
 
 检察搜索词报告是什么?搜索词并不等于关键字，你必须知道它们的分别，搜索词是你的客户在搜寻引擎上实际输入的具体字词，关键字是你已购买的字词。所以，搜索词才是你的潜在客户真正在搜寻的字。
 
