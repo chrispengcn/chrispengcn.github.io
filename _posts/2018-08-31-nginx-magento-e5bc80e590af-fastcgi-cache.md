@@ -40,7 +40,7 @@ rewrite ^(.+)$ /index.php last;
 
 
 
-location ~ \.php$ {
+location ~ .php$ {
  root /var/www/vhosts/banqled.com;
  fastcgi_pass 127.0.0.1:9000;
  fastcgi_index index.php;
@@ -110,7 +110,7 @@ proxy_cache_use_stale error timeout http_500 http_502 http_503 http_504;
 
 
 
-# location ~ \.php$ {
+# location ~ .php$ {
  # root /var/www/vhosts/banqled.com;
  # fastcgi_pass 127.0.0.1:9000;
  # fastcgi_index index.php;
