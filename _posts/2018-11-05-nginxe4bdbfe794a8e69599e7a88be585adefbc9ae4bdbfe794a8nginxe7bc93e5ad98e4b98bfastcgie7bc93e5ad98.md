@@ -14,7 +14,7 @@ post_date: 2018-11-05 15:36:30
 <div class="postBody">
 <div id="cnblogs_post_body" class="blogpost-body">
 <h2 id="启用FastCGI缓存">启用FastCGI缓存</h2>
-&lt;br\&gt;
+&lt;br&gt;
 编辑必须启用缓存的虚拟主机配置文件。
 <div class="hl-surround">
 <ol class="hl-main ln-show" title="Double click to hide line number.">
@@ -71,7 +71,7 @@ post_date: 2018-11-05 15:36:30
  	<li>        try_files <span id="MathJax-Element-5-Frame" class="MathJax" style="margin: 0px; padding: 0px; display: inline; font-style: normal; font-weight: normal; line-height: 1.5; font-size: 13px; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; position: relative;" tabindex="0" role="presentation" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;u&lt;/mi&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;/math&gt;"><span id="MathJax-Span-29" class="math"><span id="MathJax-Span-30" class="mrow"><span id="MathJax-Span-31" class="mi">u</span><span id="MathJax-Span-32" class="mi">r</span><span id="MathJax-Span-33" class="mi">i</span></span></span><span class="MJX_Assistive_MathML" role="presentation">uri</span></span>uri/ /index.html;</li>
  	<li>    }</li>
  	<li></li>
- 	<li>    location ~ \.php$ {</li>
+ 	<li>    location ~ .php$ {</li>
  	<li>        try_files $uri =404;</li>
  	<li>        fastcgi_pass unix:/var/run/php5-fpm.sock;</li>
  	<li>        fastcgi_index index.php;</li>
@@ -83,7 +83,7 @@ post_date: 2018-11-05 15:36:30
 </ol>
 </div>
 <h2 id="测试FastCGI缓存是否生效">测试FastCGI缓存是否生效</h2>
-&lt;br\&gt;
+&lt;br&gt;
 创建/usr/share/nginx/html/time.php，内容如下：
 <div class="hl-surround">
 <ol class="hl-main ln-show" title="Double click to hide line number.">
@@ -138,7 +138,7 @@ root@droplet:~# curl -v http://localhost/time.php
 * HTTP 1.1 or later with persistent connection, pipelining supported
 &lt; HTTP/1.1 200 OK &lt; Server: nginx &lt; Date: Tue, 29 Oct 2013 11:24:04 GMT &lt; Content-Type: text/html &lt; Transfer-Encoding: chunked &lt; Connection: keep-alive &lt; X-Cache: HIT &lt; * Connection #0 to host localhost left intact 1383045828* Closing connection #0
 <h2 id="不需要缓存的页面">不需要缓存的页面</h2>
-&lt;br\&gt;
+&lt;br&gt;
 某些动态内容（例如认证所需页面）不应缓存。 可以基于诸如“requesturi”，“requestmethod”和“http_cookie”的服务器变量来排除这样的内容被高速缓存。
 如下例子:
 <div class="hl-surround">
@@ -180,7 +180,7 @@ root@droplet:~# curl -v http://localhost/time.php
 </div>
 “fasctcgicachebypass”指令忽略之前由我们设置的条件相关的请求的现有缓存。 如果满足指定的条件，“fastcginocache”指令不缓存请求。
 <h2 id="清除缓存">清除缓存</h2>
-&lt;br\&gt;
+&lt;br&gt;
 缓存的命名约定基于我们为“fastcgicachekey”指令设置的变量。
 <div class="hl-surround">
 <ol class="hl-main ln-show" title="Double click to hide line number.">
