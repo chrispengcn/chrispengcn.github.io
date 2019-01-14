@@ -59,14 +59,14 @@ cd csf
 sh install.sh</p>
 You should get the information that CSF installation is completed at the end.
 
-<a id="img-1" class="fancybox" href="https://www.howtoforge.com/images/install-and-configure-csf-config-server-firewall-on-centos-7/big/1.png"><img src="https://www.howtoforge.com/images/install-and-configure-csf-config-server-firewall-on-centos-7/1.png" alt="CSF installation is complete." width="550" height="192" /></a>
+<img class="alignnone size-full wp-image-2120" src="http://hss5.com/wp-content/uploads/2019/01/1.png" width="550" height="192" alt="CSF installation is complete." />
 
 Now you should check that CSG really works on this server. Go to the <em>"/usr/local/csf/bin/"</em> directory, and run <em>"csftest.pl"</em>.
 <p class="command">cd /usr/local/csf/bin/
 perl csftest.pl</p>
 If you see the test results as shown below, then CSF is running without problems on your server:
 <p class="command">RESULT: csf should function on this server</p>
-<a id="img-2" class="fancybox" href="https://www.howtoforge.com/images/install-and-configure-csf-config-server-firewall-on-centos-7/big/2.png"><img src="https://www.howtoforge.com/images/install-and-configure-csf-config-server-firewall-on-centos-7/2.png" alt="CSF is running." width="325" height="256" /></a>
+<img class="alignnone size-full wp-image-2121" src="http://hss5.com/wp-content/uploads/2019/01/2.png" width="325" height="256" alt="CSF is running." />
 <h2 id="step-configure-csf-on-centos-">Step 3 - Configure CSF on CentOS 7</h2>
 Before stepping into the CSF configuration process, the first thing you must know is that "CentOS 7" has a default firewall application called <strong>"firewalld".</strong> You have to stop firewalld and remove it from the startup.
 

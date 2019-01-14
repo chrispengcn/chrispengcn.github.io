@@ -28,7 +28,7 @@ width: 300px;
 
 porto 模板去掉 google 字体
 
-\app\design\frontend\smartwave\porto\template\page\html\head.phtml
+appdesignfrontendsmartwaveportotemplatepagehtmlhead.phtml
 
 line:35
 
@@ -40,7 +40,7 @@ view.phtml   &amp;  list.phtml
 &nbsp;
 
 &lt;div class="details-area"&gt;
-&lt;h2 class="product-name"&gt;&lt;a href="&lt;?php echo $_product-&gt;getProductUrl() ?&gt;" title="&lt;?php echo $this-&gt;stripTags($_product-&gt;getName(), null, true) ?&gt;"&gt;&lt;?php echo $_helper-&gt;productAttribute($_product, $_product-&gt;getName(), 'name') ?&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 class="product-name"&gt;&lt;a href="&lt;?php%20echo%20$_product-&gt;getProductUrl()%20?&gt;" title="&lt;?php echo $this-&gt;stripTags($_product-&gt;getName(), null, true) ?&gt;"&gt;&lt;?php echo $_helper-&gt;productAttribute($_product, $_product-&gt;getName(), 'name') ?&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p class="product-sku"&gt;&lt;?php echo $this-&gt;__('Sku:'); ?&gt;&lt;?php echo $_product-&gt;getSku(); ?&gt;&lt;/p&gt;
 
 &lt;?php if($_product-&gt;getKvm_salepoint() ): ?&gt;
