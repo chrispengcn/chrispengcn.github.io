@@ -13,11 +13,11 @@ post_date: 2013-08-23 14:46:38
 
 "Oil on canvas" redirects here. For the album, see <a href="http://en.wikipedia.org/wiki/Oil_on_Canvas">Oil on Canvas</a>.
 
-<img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" />
+<img class="alignnone size-full wp-image-2349" src="http://hss5.com/wp-content/uploads/2019/01/50px-Question_book-new.svg_.png" width="50" height="39" alt="" />
 
 This article <b>needs additional citations for verification</b>. Please help <a href="http://en.wikipedia.org/w/index.php?title=Oil_painting&amp;action=edit">improve this article</a> by <a href="http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1">adding citations to reliable sources</a>. Unsourced material may be <a href="http://en.wikipedia.org/wiki/Template:Citation_needed">challenged</a> and <a href="http://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence">removed</a>. <small><i>(September 2011)</i></small>
 
-<a href="http://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/220px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" width="220" height="328" /></a>
+<img class="alignnone size-full wp-image-2350" src="http://hss5.com/wp-content/uploads/2019/01/220px-Mona_Lisa_by_Leonardo_da_Vinci_from_C2RMF_retouched.jpg" width="220" height="328" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -40,7 +40,7 @@ In recent years, <a href="http://en.wikipedia.org/wiki/Water_miscible_oil_paint"
 	<li><a href="http://en.wikipedia.org/wiki/Oil_painting#References">8 References</a></li>
 </ul>
 <h4>Techniques</h4>
-<a href="http://en.wikipedia.org/wiki/File:Sj%C3%A4lvportr%C3%A4tt_av_Anders_Zorn_1896.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sj%C3%A4lvportr%C3%A4tt_av_Anders_Zorn_1896.jpg/170px-Sj%C3%A4lvportr%C3%A4tt_av_Anders_Zorn_1896.jpg" width="170" height="223" /></a>
+<img class="alignnone size-full wp-image-2351" src="http://hss5.com/wp-content/uploads/2019/01/170px-Självporträtt_av_Anders_Zorn_1896.jpg" width="170" height="223" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Sj%C3%A4lvportr%C3%A4tt_av_Anders_Zorn_1896.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -50,7 +50,7 @@ Traditional oil painting techniques often begin with the artist sketching the su
 
 Traditionally, paint was transferred to the painting surface using <a href="http://en.wikipedia.org/wiki/Brush#Paintbrushes">paint brushes</a>, but there are other methods, including using <a href="http://en.wikipedia.org/wiki/Palette_knife">palette knives</a> and rags. Oil paint remains wet longer than many other types of artists' materials, enabling the artist to change the color, texture or form of the figure. At times, the painter might even remove an entire layer of paint and begin anew. This can be done with a rag and some turpentine for a certain time while the paint is wet, but after a while, the hardened layer must be scraped. Oil paint dries by <a href="http://en.wikipedia.org/wiki/Oxidation">oxidation</a>, not <a href="http://en.wikipedia.org/wiki/Evaporation">evaporation</a>, and is usually dry to the touch within a span of two weeks. It is generally dry enough to be <a href="http://en.wikipedia.org/wiki/Varnish">varnished</a> in six months to a year. Art conservators do not consider an oil painting completely dry until it is 60 to 80 years old.<sup>[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed">citation needed</a></i>]</sup>
 <h4>History</h4>
-<a href="http://en.wikipedia.org/wiki/File:Francescostjerome.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francescostjerome.jpg/170px-Francescostjerome.jpg" width="170" height="227" /></a>
+<img class="alignnone size-full wp-image-2352" src="http://hss5.com/wp-content/uploads/2019/01/170px-Francescostjerome.jpg" width="170" height="227" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Francescostjerome.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -62,7 +62,7 @@ Most <a href="http://en.wikipedia.org/wiki/Renaissance">Renaissance</a> sources,
 
 Early works were still <a href="http://en.wikipedia.org/wiki/Panel_painting">panel paintings</a> on wood, but around the end of the 15th century <a href="http://en.wikipedia.org/wiki/Canvas">canvas</a> became more popular as the support, as it was cheaper, easier to transport, allowed larger works, and did not require complicated preliminary layers of <a href="http://en.wikipedia.org/wiki/Gesso">gesso</a> (a fine type of plaster). <a href="http://en.wikipedia.org/wiki/Venice">Venice</a>, where sail-canvas was easily available, led the move. Small <a href="http://en.wikipedia.org/wiki/Cabinet_painting">cabinet paintings</a> were also made on metal, especially copper plates. These were more expensive but very firm, allowing very fine detail; often printing plates from <a href="http://en.wikipedia.org/wiki/Printmaking">printmaking</a> were reused. The popularity of oil spread through Italy from the North, starting in Venice in the late 15th century. By 1540 the previous method for painting on panel, <a href="http://en.wikipedia.org/wiki/Tempera">tempera</a>, had become all but extinct, although Italians continued to use <a href="http://en.wikipedia.org/wiki/Fresco">fresco</a> for wall paintings, which was less successful and durable in damper Northern climates.
 <h4>Ingredients</h4>
-<a href="http://en.wikipedia.org/wiki/File:Flax_seeds.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Flax_seeds.jpg/220px-Flax_seeds.jpg" width="220" height="165" /></a>
+<img class="alignnone size-full wp-image-2353" src="http://hss5.com/wp-content/uploads/2019/01/220px-Flax_seeds.jpg" width="220" height="165" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Flax_seeds.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -74,7 +74,7 @@ Recent advances in chemistry have produced modern water miscible oil paints that
 
 A still-newer type of paint, heat-set oils, remain liquid until heated to 265–280 <a href="http://en.wikipedia.org/wiki/Fahrenheit">°F</a> (130–138 <a href="http://en.wikipedia.org/wiki/Celsius">°C</a>) for about 15 minutes. Since the paint never dries otherwise, cleanup is not needed (except when one wants to use a different color and the same brush). Although not technically true oils (the medium is an unidentified "non-drying synthetic oily liquid, imbedded with a heat sensitive curing agent"), the paintings resemble oil paintings and are usually shown as oil paintings.
 <h4>Supports for oil painting</h4>
-<a href="http://en.wikipedia.org/wiki/File:Splined_Canvas.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Splined_Canvas.jpg/220px-Splined_Canvas.jpg" width="220" height="204" /></a>
+<img class="alignnone size-full wp-image-2354" src="http://hss5.com/wp-content/uploads/2019/01/220px-Splined_Canvas.jpg" width="220" height="204" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Splined_Canvas.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -88,7 +88,7 @@ Standard sizes for oil paintings were set in France in the 19th century. The sta
 
 Although surfaces like linoleum, wooden panel, paper, slate, pressed wood, and cardboard have been used, the most popular surface since the 16th century has been canvas, although many artists used panel through the 17th century and beyond. Panel is more expensive, heavier, harder to transport, and prone to warp or split in poor conditions. For fine detail, however, the absolute solidity of a wooden panel gives an advantage.
 <h4>Process</h4>
-<a href="http://en.wikipedia.org/wiki/File:Oil_painting_palette.jpg"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Oil_painting_palette.jpg/220px-Oil_painting_palette.jpg" width="220" height="282" /></a>
+<img class="alignnone size-full wp-image-2355" src="http://hss5.com/wp-content/uploads/2019/01/220px-Oil_painting_palette.jpg" width="220" height="282" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Oil_painting_palette.jpg"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
@@ -102,7 +102,7 @@ The artist most often uses a brush to apply the paint, often over a sketched out
 
 In the past few decades, many synthetic brushes have come on the market. These are very durable and can be quite good, as well as cost efficient. Floppy fibers with no snap, such as squirrel hair, are generally not used by oil painters. Sizes of brushes also are widely varied and used for different effects. For example, a "round" is a pointed brush used for detail work. "Flat" brushes are used to apply broad swaths of color. "Bright" is a flat with shorter brush hairs. "Filbert" is a flat with rounded corners. "Egbert" is a very long "Filbert" and is rare. The artist might also apply paint with a palette knife, which is a flat, metal blade. A palette knife may also be used to remove paint from the canvas when necessary. A variety of unconventional tools, such as rags, sponges, and cotton swabs, may be used. Some artists even paint with their fingers.
 
-<a href="http://en.wikipedia.org/wiki/File:Tubes_of_paint,_artist%27s_paint_PNG.png"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tubes_of_paint%2C_artist%27s_paint_PNG.png/220px-Tubes_of_paint%2C_artist%27s_paint_PNG.png" width="220" height="192" /></a>
+<img class="alignnone size-full wp-image-2356" src="http://hss5.com/wp-content/uploads/2019/01/220px-Tubes_of_paint_artists_paint_PNG.png" width="220" height="192" alt="" />
 
 <a href="http://en.wikipedia.org/wiki/File:Tubes_of_paint,_artist%27s_paint_PNG.png"><img alt="" src="http://bits.wikimedia.org/static-1.22wmf12/skins/common/images/magnify-clip.png" width="15" height="11" /></a>
 
