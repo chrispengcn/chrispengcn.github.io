@@ -120,13 +120,13 @@ server {
 <div class="highlighter-rouge">
 <div class="highlight">
 <div class="pre-wrap">
-<pre class="highlight"><code>location ~ (index|get|static|report|404|503|health_check)\.php$ {
+<pre class="highlight"><code>location ~ (index|get|static|report|404|503|health_check).php$ {
     try_files $uri =404;
     fastcgi_pass   fastcgi_backend;
     fastcgi_buffers 1024 4k;
 
-    fastcgi_param  PHP_FLAG  "session.auto_start=off \n suhosin.session.cryptua=off";
-    fastcgi_param  PHP_VALUE "memory_limit=756M \n max_execution_time=18000";
+    fastcgi_param  PHP_FLAG  "session.auto_start=off n suhosin.session.cryptua=off";
+    fastcgi_param  PHP_VALUE "memory_limit=756M n max_execution_time=18000";
     fastcgi_read_timeout 600s;
     fastcgi_connect_timeout 600s;
 
@@ -145,13 +145,13 @@ to
 <div class="highlighter-rouge">
 <div class="highlight">
 <div class="pre-wrap">
-<pre class="highlight"><code>location ~ (index|get|static|report|404|503|health_check)\.php$ {
+<pre class="highlight"><code>location ~ (index|get|static|report|404|503|health_check).php$ {
     try_files $uri =404;
     fastcgi_pass   fastcgi_backend;
     fastcgi_buffers 1024 4k;
 
-    fastcgi_param  PHP_FLAG  "session.auto_start=off \n suhosin.session.cryptua=off";
-    fastcgi_param  PHP_VALUE "memory_limit=756M \n max_execution_time=18000";
+    fastcgi_param  PHP_FLAG  "session.auto_start=off n suhosin.session.cryptua=off";
+    fastcgi_param  PHP_VALUE "memory_limit=756M n max_execution_time=18000";
     fastcgi_param  MAGE_RUN_TYPE $MAGE_RUN_TYPE;
 	    fastcgi_param  MAGE_RUN_CODE $MAGE_RUN_CODE;
     fastcgi_read_timeout 600s;
