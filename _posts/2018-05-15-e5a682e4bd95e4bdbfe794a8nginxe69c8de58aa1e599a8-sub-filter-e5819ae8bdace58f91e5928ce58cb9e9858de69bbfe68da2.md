@@ -51,7 +51,7 @@ vi  /xxxx/nginx(nginx项目)/conf/nginx.conf  编辑配置nginx
 
 ps：我在网上看很多都是在 location /{}里面添加的，不过我试过都不行，只能在location外面  server里面配置才有效果
 
-<img src="https://images2015.cnblogs.com/blog/1045034/201706/1045034-20170613195721368-644135213.png" alt="" />
+<img class="alignnone size-full wp-image-2022" src="http://hss5.com/wp-content/uploads/2019/01/1045034-20170613195721368-644135213.png" width="605" height="364" alt="" />
 
 location里面没效果，location外面 server里面才有效；
 
