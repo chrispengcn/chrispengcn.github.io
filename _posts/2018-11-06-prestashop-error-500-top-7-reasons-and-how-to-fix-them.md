@@ -23,7 +23,7 @@ As a Server Administration Service provider, we’ve seen a wide range of reas
 It can range from Memory limits and File permission issues to obscrure Deadlock errors and Cache issues.
 <div id="attachment_98918" class="wp-caption aligncenter">
 
-<img class="lazy size-full wp-image-98918 loaded lazy-loaded" src="https://bobcares.com/wp-content/uploads/prestashop-error-500.png" sizes="(max-width: 575px) 100vw, 575px" srcset="https://bobcares.com/wp-content/uploads/prestashop-error-500.png 575w, https://bobcares.com/wp-content/uploads/prestashop-error-500-300x88.png 300w" alt="Prestashop error 500" width="575" height="168" data-lazy-type="image" data-lazy-src="https://bobcares.com/wp-content/uploads/prestashop-error-500.png" data-lazy-srcset="https://bobcares.com/wp-content/uploads/prestashop-error-500.png 575w, https://bobcares.com/wp-content/uploads/prestashop-error-500-300x88.png 300w" data-lazy-sizes="(max-width: 575px) 100vw, 575px" data-was-processed="true" />
+<img class="alignnone size-full wp-image-1953" src="http://hss5.com/wp-content/uploads/2019/01/prestashop-error-500.png" width="575" height="168" alt="Prestashop error 500" />
 <p class="wp-caption-text">Here’s what an HTTP error 500 looked like in a Prestashop hosted in Nginx.</p>
 
 </div>
@@ -60,7 +60,7 @@ Then take the page that gave you the error once more, and you’ll see something
 <code>Db-&gt;executeS() must be used only with select, show, explain or describe queries at line 471 in file classes/db/Db.php</code>
 <code>465.</code>
 <code>466. // This method must be used only with queries which display results</code>
-<code>467. if (!preg_match('#^\s*\(?\s*(select|show|explain|describe|desc)\s#i', $sql))</code>
+<code>467. if (!preg_match('#^s*(?s*(select|show|explain|describe|desc)s#i', $sql))</code>
 
 OK, that can look scary too.
 
@@ -105,8 +105,8 @@ The right permissions for files is <code>644</code> and folders is <code>755<
 
 If you see from the server logs or Prestashop error report that file permissions maybe the issue, try resetting the permissions using the commands:
 
-<code>find /home/USERNAME/public_html -type d -exec chmod 755 {} \;</code>
-<code>find /home/USERNAME/public_html -type f -exec chmod 644 {} \;</code>
+<code>find /home/USERNAME/public_html -type d -exec chmod 755 {} ;</code>
+<code>find /home/USERNAME/public_html -type f -exec chmod 644 {} ;</code>
 
 Replace <code>/home/USERNAME/public_html</code> with the path to your web directory.
 
