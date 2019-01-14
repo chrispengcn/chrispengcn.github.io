@@ -77,7 +77,7 @@ WordPress本身已经集成了MU，默认是关闭的，所以不需要安装任
 <ol class="dp-c">
  	<li class="alt">RewriteEngine On</li>
  	<li>RewriteBase /</li>
- 	<li class="alt">RewriteRule ^index\.php$ - [L]</li>
+ 	<li class="alt">RewriteRule ^index.php$ - [L]</li>
  	<li></li>
  	<li class="alt"># add a trailing slash to /wp-admin</li>
  	<li>RewriteRule ^([_0-9a-zA-Z-]+/)?wp-admin$ <span class="vars">$1wp</span>-admin/ [R=301,L]</li>
@@ -86,7 +86,7 @@ WordPress本身已经集成了MU，默认是关闭的，所以不需要安装任
  	<li class="alt">RewriteCond %{REQUEST_FILENAME} -d</li>
  	<li>RewriteRule ^ - [L]</li>
  	<li class="alt">RewriteRule ^([_0-9a-zA-Z-]+/)?(wp-(content|admin|includes).*) <span class="vars">$2</span> [L]</li>
- 	<li>RewriteRule ^([_0-9a-zA-Z-]+/)?(.*\.php)$ <span class="vars">$2</span> [L]</li>
+ 	<li>RewriteRule ^([_0-9a-zA-Z-]+/)?(.*.php)$ <span class="vars">$2</span> [L]</li>
  	<li class="alt">RewriteRule . index.php [L]</li>
 </ol>
 </div>
