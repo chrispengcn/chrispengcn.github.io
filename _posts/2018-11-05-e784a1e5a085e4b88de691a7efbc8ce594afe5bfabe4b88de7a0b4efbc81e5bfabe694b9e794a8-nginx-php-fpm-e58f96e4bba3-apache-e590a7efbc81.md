@@ -107,7 +107,7 @@ CentOS 則是存放在以下路徑：
 </ul>
 中間的「location /」Selection 用「<strong>try_files $uri $uri/ /index.php;</strong>」來嘗試讀取開啟，如果檔案不存在就轉為呼叫 index.php，做的事情與常用的 Apache Rewrite Module 差不多，這樣設計主要是為了將 Request 導給 Framework (例如 Codeigniter, Zend Framework 等等)。
 
-最後的「location ~* \.php$」Selection 就是設定要將 .php 檔案直接交由 FPM 來處理，詳細的設定說明可以參考 <a href="http://wiki.nginx.org/Main">Nginx WIKI</a>。fastcgi_pass 所指向的位置是 PHP-FPM 所開啟的服務，接者我們繼續設定 PHP-FPM。
+最後的「location ~* .php$」Selection 就是設定要將 .php 檔案直接交由 FPM 來處理，詳細的設定說明可以參考 <a href="http://wiki.nginx.org/Main">Nginx WIKI</a>。fastcgi_pass 所指向的位置是 PHP-FPM 所開啟的服務，接者我們繼續設定 PHP-FPM。
 <h2>設定 PHP-FPM</h2>
 Ubuntu 請編輯 /etc/php5/fpm/pool.d/www.conf 檔案
 <pre>sudo vim /etc/php5/fpm/pool.d/www.conf</pre>
@@ -141,7 +141,7 @@ CentOS 則放在 /etc/php-fpm.d/www.conf
 sudo service nginx restart</pre>
 成功後快開啟瀏覽器試看看吧，我在 CentOS 裝起來的 Nginx Welcome 畫面如下：
 
-<a class="image-anchor" href="http://blog.toright.com/posts/3890/%e7%84%a1%e5%a0%85%e4%b8%8d%e6%91%a7%ef%bc%8c%e5%94%af%e5%bf%ab%e4%b8%8d%e7%a0%b4%ef%bc%81%e5%bf%ab%e6%94%b9%e7%94%a8-nginx-php-fpm-%e5%8f%96%e4%bb%a3-apache-%e5%90%a7%ef%bc%81.html/nginx-welcome" rel="attachment wp-att-3907"><img class="alignnone wp-image-3907 size-full" src="https://i0.wp.com/blog.toright.com/wp-content/uploads/2014/09/nginx-welcome.png?resize=598%2C462" sizes="(max-width: 598px) 100vw, 598px" srcset="https://i0.wp.com/blog.toright.com/wp-content/uploads/2014/09/nginx-welcome.png?w=598&amp;ssl=1 598w, https://i0.wp.com/blog.toright.com/wp-content/uploads/2014/09/nginx-welcome.png?resize=300%2C231&amp;ssl=1 300w" alt="nginx-welcome" width="598" height="462" /></a>
+<img class="alignnone size-full wp-image-1955" src="http://hss5.com/wp-content/uploads/2019/01/nginx-welcome.png" width="598" height="462" alt="nginx-welcome" />
 <h2>感想</h2>
 Nginx 整體來說安裝是蠻容易的，但要調校的好又是另外一件事了，如果設定的不洽當，在高流量時 Nginx 常會送你 502 Bad Gateway。剛開始花蠻多時間嘗試調整參數，搭配效能測試工具來調整，讓伺服器發揮最大效用。
 
