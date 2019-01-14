@@ -36,7 +36,7 @@ rewrite ^(.+)$ /index.php last;
 
 &nbsp;
 
-location ~ \.php$ {
+location ~ .php$ {
 root /var/www/vhosts/shopym.com;
 fastcgi_pass 127.0.0.1:9000;
 fastcgi_index index.php;
@@ -89,7 +89,7 @@ rewrite ^(.+)$ /index.php last;
 
 &nbsp;
 
-location ~ \.php$ {
+location ~ .php$ {
 root /var/www/vhosts/shopym.com;
 fastcgi_pass 127.0.0.1:9000;
 fastcgi_index index.php;
@@ -140,7 +140,7 @@ rewrite ^(.+)$ /index.php last;
 
 &nbsp;
 
-location ~ \.php$ {
+location ~ .php$ {
 root /var/www/vhosts/shopym.com;
 fastcgi_pass 127.0.0.1:9000;
 fastcgi_index index.php;
