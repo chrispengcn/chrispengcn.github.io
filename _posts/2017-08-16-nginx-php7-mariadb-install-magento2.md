@@ -38,44 +38,44 @@ cd 到 root目录下，下载nginx1.10.0
 转入NGINX目录
 <blockquote>cd nginx-1.10.0</blockquote>
 检测NGINX编译环境
-<pre class="prettyprint"><code><span class="pun">.</span><span class="str">/configure \
---prefix=/</span><span class="pln">etc</span><span class="pun">/</span><span class="pln">nginx \
-</span><span class="pun">--</span><span class="pln">sbin</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/usr/</span><span class="pln">sbin</span><span class="pun">/</span><span class="pln">nginx \
-</span><span class="pun">--</span><span class="pln">conf</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/etc/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="pln">conf \
-</span><span class="pun">--</span><span class="pln">error</span><span class="pun">-</span><span class="pln">log</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">log</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">error</span><span class="pun">.</span><span class="pln">log \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">log</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">log</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">access</span><span class="pun">.</span><span class="pln">log \
-</span><span class="pun">--</span><span class="pln">pid</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">run</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="pln">pid \
-</span><span class="pun">--</span><span class="kwd">lock</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">run</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="kwd">lock</span><span class="pln"> \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">client</span><span class="pun">-</span><span class="pln">body</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">client_temp \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">proxy</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">proxy_temp \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">fastcgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">fastcgi_temp \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">uwsgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">uwsgi_temp \
-</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">scgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">scgi_temp \
-</span><span class="pun">--</span><span class="pln">user</span><span class="pun">=</span><span class="pln">nginx \
-</span><span class="pun">--</span><span class="kwd">group</span><span class="pun">=</span><span class="pln">nginx \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">openssl</span><span class="pun">=</span><span class="str">/root/</span><span class="pln">openssl</span><span class="pun">-</span><span class="lit">1.0</span><span class="pun">.</span><span class="lit">2h</span><span class="pln"> \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_ssl_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_realip_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_addition_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_sub_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_dav_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_flv_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_mp4_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_gunzip_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_gzip_static_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_random_index_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_secure_link_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_stub_status_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_auth_request_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">mail \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">debug \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">mail_ssl_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">file</span><span class="pun">-</span><span class="pln">aio \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">ipv6 \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">threads \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">stream \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">stream_ssl_module \
-</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_slice_module \
+<pre class="prettyprint"><code><span class="pun">.</span><span class="str">/configure 
+--prefix=/</span><span class="pln">etc</span><span class="pun">/</span><span class="pln">nginx 
+</span><span class="pun">--</span><span class="pln">sbin</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/usr/</span><span class="pln">sbin</span><span class="pun">/</span><span class="pln">nginx 
+</span><span class="pun">--</span><span class="pln">conf</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/etc/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="pln">conf 
+</span><span class="pun">--</span><span class="pln">error</span><span class="pun">-</span><span class="pln">log</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">log</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">error</span><span class="pun">.</span><span class="pln">log 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">log</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">log</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">access</span><span class="pun">.</span><span class="pln">log 
+</span><span class="pun">--</span><span class="pln">pid</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">run</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="pln">pid 
+</span><span class="pun">--</span><span class="kwd">lock</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">run</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">.</span><span class="kwd">lock</span><span class="pln"> 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">client</span><span class="pun">-</span><span class="pln">body</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">client_temp 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">proxy</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">proxy_temp 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">fastcgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">fastcgi_temp 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">uwsgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">uwsgi_temp 
+</span><span class="pun">--</span><span class="pln">http</span><span class="pun">-</span><span class="pln">scgi</span><span class="pun">-</span><span class="pln">temp</span><span class="pun">-</span><span class="pln">path</span><span class="pun">=</span><span class="str">/var/</span><span class="pln">cache</span><span class="pun">/</span><span class="pln">nginx</span><span class="pun">/</span><span class="pln">scgi_temp 
+</span><span class="pun">--</span><span class="pln">user</span><span class="pun">=</span><span class="pln">nginx 
+</span><span class="pun">--</span><span class="kwd">group</span><span class="pun">=</span><span class="pln">nginx 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">openssl</span><span class="pun">=</span><span class="str">/root/</span><span class="pln">openssl</span><span class="pun">-</span><span class="lit">1.0</span><span class="pun">.</span><span class="lit">2h</span><span class="pln"> 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_ssl_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_realip_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_addition_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_sub_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_dav_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_flv_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_mp4_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_gunzip_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_gzip_static_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_random_index_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_secure_link_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_stub_status_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_auth_request_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">mail 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">debug 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">mail_ssl_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">file</span><span class="pun">-</span><span class="pln">aio 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">ipv6 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">threads 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">stream 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">stream_ssl_module 
+</span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_slice_module 
 </span><span class="pun">--</span><span class="kwd">with</span><span class="pun">-</span><span class="pln">http_v2_module</span></code></pre>
 成功后编译NGINX
 <blockquote>make &amp;&amp; make install</blockquote>
@@ -139,10 +139,10 @@ http </span><span class="pun">{</span><span class="pln">
         index  index</span><span class="pun">.</span><span class="pln">html index</span><span class="pun">.</span><span class="pln">htm index</span><span class="pun">.</span><span class="pln">php</span><span class="pun">;</span><span class="pun">}</span><span class="pln">
     error_page  </span><span class="lit">404</span><span class="lit">403</span><span class="pun">/</span><span class="lit">404.html</span><span class="pun">;</span><span class="pln">
     error_page  </span><span class="lit">500</span><span class="lit">502</span><span class="lit">503</span><span class="lit">504</span><span class="pun">/</span><span class="lit">50x</span><span class="pun">.</span><span class="pln">html</span><span class="pun">;</span><span class="pln">
-    location </span><span class="pun">~</span><span class="pln"> \.php$ </span><span class="pun">{</span><span class="pln">
+    location </span><span class="pun">~</span><span class="pln"> .php$ </span><span class="pun">{</span><span class="pln">
         fastcgi_pass                    </span><span class="lit">127.0</span><span class="pun">.</span><span class="lit">0.1</span><span class="pun">:</span><span class="lit">9000</span><span class="pun">;</span><span class="pln">
         fastcgi_index                   index</span><span class="pun">.</span><span class="pln">php</span><span class="pun">;</span><span class="pln">
-        fastcgi_split_path_info         </span><span class="pun">^((?</span><span class="pln">U</span><span class="pun">).+</span><span class="pln">\.php</span><span class="pun">)(/?.+)</span><span class="pln">$</span><span class="pun">;</span><span class="pln">
+        fastcgi_split_path_info         </span><span class="pun">^((?</span><span class="pln">U</span><span class="pun">).+</span><span class="pln">.php</span><span class="pun">)(/?.+)</span><span class="pln">$</span><span class="pun">;</span><span class="pln">
         fastcgi_param  SCRIPT_FILENAME  $document_root$fastcgi_script_name</span><span class="pun">;</span><span class="pln">
         include                         fastcgi_params</span><span class="pun">;</span><span class="pun">}</span><span class="pun">}</span></code></pre>
 配置完成后在给Linux添加个NGINX用户和用户组
