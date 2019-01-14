@@ -25,7 +25,7 @@ post_date: 2018-12-11 13:09:16
 解决方法：
 
 mkdir -p /etc/systemd/system/nginx.service.d
-printf "[Service]\nExecStartPost=/bin/sleep 0.1\n" &gt; /etc/systemd/system/nginx.service.d/override.conf
+printf "[Service]nExecStartPost=/bin/sleep 0.1n" &gt; /etc/systemd/system/nginx.service.d/override.conf
 
 然后
 systemctl daemon-reload
