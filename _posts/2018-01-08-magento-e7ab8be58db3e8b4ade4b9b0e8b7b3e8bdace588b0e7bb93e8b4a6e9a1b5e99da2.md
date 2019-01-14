@@ -44,7 +44,7 @@ magento添加立即购买程序
 <div class="list-icon">1</div>
 <div class="content-list-text">
 
-先找到该目录下的app\design\frontend\default\blank\template\catalog\product\view\
+先找到该目录下的appdesignfrontenddefaultblanktemplatecatalogproductview
 
 addtocart.phtml 文件
 
