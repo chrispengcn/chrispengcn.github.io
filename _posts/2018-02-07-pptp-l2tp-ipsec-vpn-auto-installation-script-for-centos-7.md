@@ -98,7 +98,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>\e[42m\e[31mError: You must be root to run this install script.\e[0m\n<span class="pl-pds">"</span></span></td>
+<td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>e[42me[31mError: You must be root to run this install script.e[0mn<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -140,14 +140,14 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>\e[42m\e[31mError: Your OS is NOT CentOS 7 or RHEL 7.\e[0m\n<span class="pl-pds">"</span></span></td>
+<td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>e[42me[31mError: Your OS is NOT CentOS 7 or RHEL 7.e[0mn<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>\e[42m\e[31mThis install script is ONLY for CentOS 7 and RHEL 7.\e[0m\n<span class="pl-pds">"</span></span></td>
+<td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>e[42me[31mThis install script is ONLY for CentOS 7 and RHEL 7.e[0mn<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -273,28 +273,28 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>\e[33m<span class="pl-smi">$serverip</span>\e[0m is the server IP?<span class="pl-pds">"</span></span></td>
+<td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>e[33m<span class="pl-smi">$serverip</span>e[0m is the server IP?<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>If \e[33m<span class="pl-smi">$serverip</span>\e[0m is \e[33mcorrect\e[0m, press enter directly.<span class="pl-pds">"</span></span></td>
+<td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>If e[33m<span class="pl-smi">$serverip</span>e[0m is e[33mcorrecte[0m, press enter directly.<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>If \e[33m<span class="pl-smi">$serverip</span>\e[0m is \e[33mincorrect\e[0m, please input your server IP.<span class="pl-pds">"</span></span></td>
+<td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>If e[33m<span class="pl-smi">$serverip</span>e[0m is e[33mincorrecte[0m, please input your server IP.<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default server IP: \e[33m<span class="pl-smi">$serverip</span>\e[0m):<span class="pl-pds">"</span></span></td>
+<td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default server IP: e[33m<span class="pl-smi">$serverip</span>e[0m):<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -350,14 +350,14 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC49" class="blob-code blob-code-inner js-file-line">eth=<span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-pds">"</span><span class="pl-smi">$ethlist</span>\n<span class="pl-pds">"</span> <span class="pl-k">|</span> head -n 1<span class="pl-pds">)</span></span></td>
+<td id="LC49" class="blob-code blob-code-inner js-file-line">eth=<span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-pds">"</span><span class="pl-smi">$ethlist</span>n<span class="pl-pds">"</span> <span class="pl-k">|</span> head -n 1<span class="pl-pds">)</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-pds">"</span><span class="pl-smi">$ethlist</span>\n<span class="pl-pds">"</span> <span class="pl-k">|</span> wc -l<span class="pl-pds">)</span></span> <span class="pl-k">-gt</span> 2 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+<td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">$(</span>printf <span class="pl-pds">"</span><span class="pl-smi">$ethlist</span>n<span class="pl-pds">"</span> <span class="pl-k">|</span> wc -l<span class="pl-pds">)</span></span> <span class="pl-k">-gt</span> 2 ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
 </tr>
 </tbody>
 </table>
@@ -378,7 +378,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>\e[33m<span class="pl-smi">$ethlist</span>\e[0m\n<span class="pl-pds">"</span></span></td>
+<td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>e[33m<span class="pl-smi">$ethlist</span>e[0mn<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -399,7 +399,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Default network interface is \e[33m<span class="pl-smi">$eth</span>\e[0m, let it blank to use default network interface: <span class="pl-pds">"</span></span></td>
+<td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Default network interface is e[33m<span class="pl-smi">$eth</span>e[0m, let it blank to use default network interface: <span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -469,7 +469,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default IP-Range: \e[33m<span class="pl-smi">$iprange</span>\e[0m): <span class="pl-pds">"</span></span></td>
+<td id="LC66" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default IP-Range: e[33m<span class="pl-smi">$iprange</span>e[0m): <span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -532,7 +532,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default PSK: \e[33mueibo.cn\e[0m): <span class="pl-pds">"</span></span></td>
+<td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default PSK: e[33mueibo.cne[0m): <span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -595,7 +595,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC84" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default VPN username: \e[33mueibo.com\e[0m): <span class="pl-pds">"</span></span></td>
+<td id="LC84" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>(Default VPN username: e[33mueibo.come[0m): <span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -728,14 +728,14 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Please input \e[33m<span class="pl-smi">$username</span>\e[0m's password:\n<span class="pl-pds">"</span></span></td>
+<td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Please input e[33m<span class="pl-smi">$username</span>e[0m's password:n<span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Default password is \e[33m<span class="pl-smi">$password</span>\e[0m, let it blank to use default password: <span class="pl-pds">"</span></span></td>
+<td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">printf</span> <span class="pl-s"><span class="pl-pds">"</span>Default password is e[33m<span class="pl-smi">$password</span>e[0m, let it blank to use default password: <span class="pl-pds">"</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -2513,7 +2513,7 @@ https://github.com/BoizZ/PPTP-L2TP-IPSec-VPN-auto-installation-script-for-CentOS
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
 <tbody>
 <tr>
-<td id="LC358" class="blob-code blob-code-inner js-file-line"><span class="pl-s"># ntlm_auth-helper '/usr/bin/ntlm_auth --helper-protocol=ntlm-server-1 --require-membership-of="EXAMPLE\VPN Users"'</span></td>
+<td id="LC358" class="blob-code blob-code-inner js-file-line"><span class="pl-s"># ntlm_auth-helper '/usr/bin/ntlm_auth --helper-protocol=ntlm-server-1 --require-membership-of="EXAMPLEVPN Users"'</span></td>
 </tr>
 </tbody>
 </table>
