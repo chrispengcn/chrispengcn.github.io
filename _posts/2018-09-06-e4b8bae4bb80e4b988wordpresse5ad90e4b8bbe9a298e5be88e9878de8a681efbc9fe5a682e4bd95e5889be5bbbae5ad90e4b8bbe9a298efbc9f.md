@@ -17,7 +17,7 @@ post_date: 2018-09-06 09:19:42
 <div class="article-zabc"></div>
 您可能会认为自己网站上使用的<a href="https://boke112.com/5000.html" target="_blank" rel="noopener">WordPress 主题</a>非常优秀，但是也许你想调整一下主题的代码 DIY 一些功能来满足自己的需求，又或者您想了解如何自定义 WordPress 子主题。其实不管你想增/删主题代码或者改变外观或增减功能，我强烈建议您使用 WordPress 子主题。相信我，创造一个子主题，将会使你远离很多令人烦恼的事情。
 
-<img class="aligncenter size-medium" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第1张-boke112导航" src="https://boke.yigujin.cn/img/2018/180626_childtheme.jpg" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第1张" width="600" height="249" />
+<img class="alignnone size-full wp-image-1865" src="http://hss5.com/wp-content/uploads/2019/01/180626_childtheme.jpg" width="600" height="249" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第1张" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第1张-boke112导航" />
 <h2><strong>什么是 WordPress</strong><strong>子主题？</strong></h2>
 顾名思义，子主题是一个主题的孩子，它继承了父主题的所有功能和风格（就像我们从父母那里继承 DNA 一样）。
 <h2><strong>为什么 WordPress</strong><strong>子主题很重要？</strong></h2>
@@ -35,11 +35,11 @@ post_date: 2018-09-06 09:19:42
 
 1、登录到您的 WordPress 后台 &gt;&gt; 插件 &gt;&gt; 安装插件，在右上角的搜索框里搜索“Child Theme Wizard”，找到同名插件（大约在第一项），安装并激活该插件。
 
-<img class="aligncenter size-medium" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第2张-boke112导航" src="https://boke.yigujin.cn/img/2018/180626_childtheme1.jpg" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第2张" width="640" height="251" />
+<img class="alignnone size-full wp-image-1866" src="http://hss5.com/wp-content/uploads/2019/01/180626_childtheme1.jpg" width="640" height="251" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第2张" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第2张-boke112导航" />
 
 2、激活插件后，进入 WordPress 后台 &gt;&gt; 工具 &gt;&gt; Child Theme Wizard，选择父主题（您要处理的主题）（第一个下拉框），为您的子主题输入新名称（第二个文本框），并填写其他额外的详细信息（可选）。 然后点击“Create Child Theme”创建子主题，具体如下图所示：
 
-<img class="aligncenter size-medium" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第3张-boke112导航" src="https://boke.yigujin.cn/img/2018/180626_childtheme2.jpg" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第3张" width="592" height="462" />
+<img class="alignnone size-full wp-image-1867" src="http://hss5.com/wp-content/uploads/2019/01/180626_childtheme2.jpg" width="592" height="462" alt="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第3张" title="为什么WordPress子主题很重要？如何创建子主题？ WordPress 第3张-boke112导航" />
 
 当子主题成功创建后，您将看到“Your Child Theme was created successfully!”的提示信息。
 
