@@ -67,31 +67,31 @@ Otherwise, follow my lead and create a WordPress Child Theme in a minute without
 
 <strong>Step 2: </strong>Go to <strong>Plugins&gt; Add New</strong>
 
-<img class="wp-image-20097" src="https://raratheme.com/blog/wp-content/uploads/2017/04/add-plugin-png.png" sizes="(max-width: 486px) 100vw, 486px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/add-plugin-png.png 486w, https://raratheme.com/blog/wp-content/uploads/2017/04/add-plugin-png-300x138.png 300w" alt="add plugin.png" />
+<img class="alignnone size-full wp-image-1966" src="http://hss5.com/wp-content/uploads/2019/01/add-plugin-png.png" width="486" height="223" alt="add plugin.png" />
 
 <strong>Step 3:</strong> Search, install and activate Child Theme Wizard plugin.
 
-<img class="wp-image-20098" src="https://raratheme.com/blog/wp-content/uploads/2017/04/search-plugin-png.png" sizes="(max-width: 1084px) 100vw, 1084px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/search-plugin-png.png 1084w, https://raratheme.com/blog/wp-content/uploads/2017/04/search-plugin-png-300x57.png 300w, https://raratheme.com/blog/wp-content/uploads/2017/04/search-plugin-png-768x146.png 768w, https://raratheme.com/blog/wp-content/uploads/2017/04/search-plugin-png-1024x195.png 1024w" alt="search plugin.png" />
+<img class="alignnone size-full wp-image-1967" src="http://hss5.com/wp-content/uploads/2019/01/search-plugin-png.png" width="1084" height="206" alt="search plugin.png" />
 
-<img class="wp-image-20099" src="https://raratheme.com/blog/wp-content/uploads/2017/04/install-plugin-png.png" sizes="(max-width: 1067px) 100vw, 1067px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/install-plugin-png.png 1067w, https://raratheme.com/blog/wp-content/uploads/2017/04/install-plugin-png-300x131.png 300w, https://raratheme.com/blog/wp-content/uploads/2017/04/install-plugin-png-768x336.png 768w, https://raratheme.com/blog/wp-content/uploads/2017/04/install-plugin-png-1024x448.png 1024w" alt="install plugin.png" />
+<img class="alignnone size-full wp-image-1968" src="http://hss5.com/wp-content/uploads/2019/01/install-plugin-png.png" width="1067" height="467" alt="install plugin.png" />
 
-<img class="wp-image-20100" src="https://raratheme.com/blog/wp-content/uploads/2017/04/activate-plugin-png.png" sizes="(max-width: 1080px) 100vw, 1080px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/activate-plugin-png.png 1080w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-plugin-png-300x123.png 300w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-plugin-png-768x316.png 768w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-plugin-png-1024x421.png 1024w" alt="activate plugin.png" />
+<img class="alignnone size-full wp-image-1969" src="http://hss5.com/wp-content/uploads/2019/01/activate-plugin-png.png" width="1080" height="444" alt="activate plugin.png" />
 
 <strong>Step 4: </strong>After you activate the plugin, go to <strong>Tools &gt; Child Theme Wizard.</strong>
 
-<img class="wp-image-20101" src="https://raratheme.com/blog/wp-content/uploads/2017/04/tools-child-theme-png.png" sizes="(max-width: 651px) 100vw, 651px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/tools-child-theme-png.png 651w, https://raratheme.com/blog/wp-content/uploads/2017/04/tools-child-theme-png-300x111.png 300w" alt="tools child theme.png" />
+<img class="alignnone size-full wp-image-1970" src="http://hss5.com/wp-content/uploads/2019/01/tools-child-theme-png.png" width="651" height="240" alt="tools child theme.png" />
 
 <strong>Step 5: </strong>Select the Parent theme (the theme that you want to work on), enter the Title (name) for your child theme, and fill in other extra details(optional). Then, click “<strong>Create Child Theme</strong>”
 
-<img class="wp-image-20102" src="https://raratheme.com/blog/wp-content/uploads/2017/04/create-a-child-theme-png.png" sizes="(max-width: 689px) 100vw, 689px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/create-a-child-theme-png.png 689w, https://raratheme.com/blog/wp-content/uploads/2017/04/create-a-child-theme-png-300x226.png 300w" alt="create a child theme.png" />
+<img class="alignnone size-full wp-image-1971" src="http://hss5.com/wp-content/uploads/2019/01/create-a-child-theme-png.png" width="689" height="520" alt="create a child theme.png" />
 
 When the child theme is successfully created, you will see the following message.
 
-<img class="wp-image-20103" src="https://raratheme.com/blog/wp-content/uploads/2017/04/success-child-theme-png.png" sizes="(max-width: 604px) 100vw, 604px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/success-child-theme-png.png 604w, https://raratheme.com/blog/wp-content/uploads/2017/04/success-child-theme-png-300x209.png 300w" alt="success child theme.png" />
+<img class="alignnone size-full wp-image-1972" src="http://hss5.com/wp-content/uploads/2019/01/success-child-theme-png.png" width="604" height="421" alt="success child theme.png" />
 
 <strong>Step 6: </strong>Go to <strong>Appearance&gt; Themes </strong>and activate the new child theme.
 
-<img class="wp-image-20104" src="https://raratheme.com/blog/wp-content/uploads/2017/04/activate-child-theme-png.png" sizes="(max-width: 1085px) 100vw, 1085px" srcset="https://raratheme.com/blog/wp-content/uploads/2017/04/activate-child-theme-png.png 1085w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-child-theme-png-300x124.png 300w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-child-theme-png-768x317.png 768w, https://raratheme.com/blog/wp-content/uploads/2017/04/activate-child-theme-png-1024x423.png 1024w" alt="activate child theme.png" />
+<img class="alignnone size-full wp-image-1973" src="http://hss5.com/wp-content/uploads/2019/01/activate-child-theme-png.png" width="1085" height="448" alt="activate child theme.png" />
 
 Voila! You now have a child theme.
 
