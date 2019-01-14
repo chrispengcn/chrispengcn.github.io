@@ -20,10 +20,10 @@ $ php bin/magento setup:static-content:deploy
 
 2、When Magento 2 is not in production mode, it will try to create symlinks for some static resources on local server. We have to change that behavior of Magento 2 by going to edit ROOT &gt; app &gt; etc &gt; di.xml file. Open up di.xml in your favorite code editor, find the virtualType name=”developerMaterialization” section. In that section below, you will find an item which needs to be modified. You can modify it by changing the following content:
 
-Magento\Framework\App\View\Asset\MaterializationStrategy\Symlink
+MagentoFrameworkAppViewAssetMaterializationStrategySymlink
 To:
 
-Magento\Framework\App\View\Asset\MaterializationStrategy\Copy
+MagentoFrameworkAppViewAssetMaterializationStrategyCopy
 Now last step, also delete old files generated in ROOT &gt; pub &gt; static &gt; DELETE ALL EXCEPT .HTACCESS
 
 Clear / Flush Magento cache by typing “php bin/magento cache:flush” in CMD.
