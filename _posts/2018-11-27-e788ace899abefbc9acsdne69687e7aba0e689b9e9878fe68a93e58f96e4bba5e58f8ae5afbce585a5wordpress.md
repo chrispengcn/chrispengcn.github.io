@@ -213,7 +213,7 @@ while(i &lt;= int(page)):
 
             # page_cates = next_page_crawl_url.getCates()
 
-            page_content = str(page_content) + "&lt;br&gt;&lt;p&gt;此文章通过 python 爬虫创建，原文是自己的csdn 地址: &lt;a target=\"_blank\" href=\"" + str(n) + "\"&gt;" + page_title + "&lt;/a&gt;&lt;/p&gt;&lt;br&gt;"
+            page_content = str(page_content) + "&lt;br&gt;&lt;p&gt;此文章通过 python 爬虫创建，原文是自己的csdn 地址: &lt;a target="_blank" href="" + str(n) + ""&gt;" + page_title + "&lt;/a&gt;&lt;/p&gt;&lt;br&gt;"
 
             wp_data['status'] = "publish"
             wp_data['title'] = page_title
