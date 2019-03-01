@@ -10,7 +10,7 @@ published: true
 post_date: 2019-03-01 18:47:42
 ---
 <blockquote>导读：毋庸置疑，数据备份是网站可持续性运营中至关重要的一个工作，如果还没有做任何备份机制的网站，建议尽早完善，莫要等到追悔莫及。本文将分享一个安全稳定、快速可靠、花费廉价的备份方案。</blockquote>
-<img class="alignnone size-full wp-image-2439" src="http://hss5.com/wp-content/uploads/2019/03/web-1.jpg" width="480" height="285" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+<img class="alignnone size-full wp-image-2439" src="http://hss5.com/wp-content/uploads/2019/03/web-1.jpg" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="285" />
 <h2 id="title-0">一、优点分析</h2>
 张戈博客在 2 年前已经分享过一篇关于网站备份的文章：《<a href="https://zhang.ge/4336.html" target="_blank" rel="bookmark noopener">Linux/vps 本地七天循环备份和七牛远程备份脚本</a>》，今天将再次结合这个脚本，将网站数据通过阿里云内网备份到阿里云 OSS。
 
@@ -23,13 +23,13 @@ post_date: 2019-03-01 18:47:42
 因此，只建议部署在阿里云 ECS（9 折优惠码：r9itz9，新购可用）的网站使用 OSS 来备份，其他产品还要走外网备份到 OSS 就得不偿失了，还不如用七牛。
 <h2 id="title-1">二、准备工作</h2>
 <h3>①、开通 OSS，并创建备份 Bucket</h3>
-访问阿里云 <a href="https://zhang.ge/goto/aHR0cHM6Ly9vc3MuY29uc29sZS5hbGl5dW4uY29tL2luZGV4" target="_blank" rel="nofollow noopener">OSS 控制台</a>，点击开通 OSS，然后新建一个 Bucket（名称自定义），注意选择 ECS 相同的区域（比如青岛的 ECS 我就选择华北 1），并且选择私有读写权限：<img class="alignnone size-full wp-image-2441" src="http://hss5.com/wp-content/uploads/2019/03/oss1-1.jpg" width="480" height="384" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+访问阿里云 <a href="https://zhang.ge/goto/aHR0cHM6Ly9vc3MuY29uc29sZS5hbGl5dW4uY29tL2luZGV4" target="_blank" rel="nofollow noopener">OSS 控制台</a>，点击开通 OSS，然后新建一个 Bucket（名称自定义），注意选择 ECS 相同的区域（比如青岛的 ECS 我就选择华北 1），并且选择私有读写权限：<img class="alignnone size-full wp-image-2441" src="http://hss5.com/wp-content/uploads/2019/03/oss1-1.jpg" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="384" />
 <h3>②、创建认证密钥</h3>
-在 OSS 控制台的右侧栏，点击安全令牌，创建用于管理 OSS 的密钥对：<img class="alignnone size-full wp-image-2443" src="http://hss5.com/wp-content/uploads/2019/03/oss2-1.jpg" width="480" height="278" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+在 OSS 控制台的右侧栏，点击安全令牌，创建用于管理 OSS 的密钥对：<img class="alignnone size-full wp-image-2443" src="http://hss5.com/wp-content/uploads/2019/03/oss2-1.jpg" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="278" />
 
-创建得到的密钥对记得备忘一下，因为只能获取一次：<img class="alignnone size-full wp-image-2445" src="http://hss5.com/wp-content/uploads/2019/03/oss3-1.png" width="480" height="345" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+创建得到的密钥对记得备忘一下，因为只能获取一次：<img class="alignnone size-full wp-image-2445" src="http://hss5.com/wp-content/uploads/2019/03/oss3-1.png" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="345" />
 
-2016-10-29 补充：看到<a href="https://zhang.ge/goto/aHR0cHM6Ly93d3cuY21oZWxsby5jb20vYmFja3VwLXRvLWFsaXl1bi1vc3MuaHRtbA==" target="_blank" rel="nofollow noopener">倡萌的实践分享</a>，他遇到从 OSS 界面申请的密钥居然不具备 OSS 访问权限，所以这里也“盗图”补充一下，如果密钥没有权限请如图添加即可：<img class="alignnone size-full wp-image-2446" src="http://hss5.com/wp-content/uploads/2019/03/oss4-1-1.png" width="480" height="253" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+2016-10-29 补充：看到<a href="https://zhang.ge/goto/aHR0cHM6Ly93d3cuY21oZWxsby5jb20vYmFja3VwLXRvLWFsaXl1bi1vc3MuaHRtbA==" target="_blank" rel="nofollow noopener">倡萌的实践分享</a>，他遇到从 OSS 界面申请的密钥居然不具备 OSS 访问权限，所以这里也“盗图”补充一下，如果密钥没有权限请如图添加即可：<img class="alignnone size-full wp-image-2446" src="http://hss5.com/wp-content/uploads/2019/03/oss4-1-1.png" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="253" />
 <h2 id="title-2">三、SDK 脚本</h2>
 我根据 OSS 的帮助文件，选择了适用范围最广的 Python SDK 方案，并且额外加入了断点续传和上传百分比功能，测试成功。
 <h3>①、环境准备</h3>
@@ -131,7 +131,9 @@ OSS 的 Python SDK 需要用到 oss2 插件，所以我们先安装一下。
 <div class="crayon-button crayon-popup-button" title="Open Code In New Window">
 <div class="crayon-button-icon"></div>
 </div>
-<span class="crayon-language">Python</span></div>
+<span class="crayon-language">Python</span>
+
+</div>
 </div>
 <div class="crayon-plain-wrap"></div>
 <div class="crayon-main">
@@ -254,7 +256,7 @@ OSS 的 Python SDK 需要用到 oss2 插件，所以我们先安装一下。
  	<li>第 4 个参数是前文创建的 Bucket 名称，比如 mybackup1</li>
  	<li>第 5 个参数是要上传的本地文件的绝对路径</li>
 </ul>
-执行后，就能在 OSS 的 Object 界面看到了：<img class="alignnone size-full wp-image-2447" src="http://hss5.com/wp-content/uploads/2019/03/oss4.png" width="480" height="121" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" />
+执行后，就能在 OSS 的 Object 界面看到了：<img class="alignnone size-full wp-image-2447" src="http://hss5.com/wp-content/uploads/2019/03/oss4.png" alt="Python+Shell脚本结合阿里云OSS对象存储定时远程备份网站" width="480" height="121" />
 <h3>③、下载脚本</h3>
 其实只需要有个上传脚本即可，因为备份文件可直接从 Object 界面下载。不过，为了方便在服务器上直接恢复文件，还是弄了一个下载脚本。
 <div id="crayon-5c78caccec8b0312423796" class="crayon-syntax crayon-theme-solarized-dark crayon-font-consolas crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover disable-anim">
@@ -272,7 +274,9 @@ OSS 的 Python SDK 需要用到 oss2 插件，所以我们先安装一下。
 <div class="crayon-button crayon-popup-button" title="Open Code In New Window">
 <div class="crayon-button-icon"></div>
 </div>
-<span class="crayon-language">Python</span></div>
+<span class="crayon-language">Python</span>
+
+</div>
 </div>
 <div class="crayon-plain-wrap"></div>
 <div class="crayon-main">
@@ -441,7 +445,9 @@ OSS 的 Python SDK 需要用到 oss2 插件，所以我们先安装一下。
 <div class="crayon-button crayon-popup-button" title="Open Code In New Window">
 <div class="crayon-button-icon"></div>
 </div>
-<span class="crayon-language">Shell</span></div>
+<span class="crayon-language">Shell</span>
+
+</div>
 </div>
 <div class="crayon-plain-wrap"></div>
 <div class="crayon-main">
@@ -716,7 +722,9 @@ II、替换代码中的 mypassword 为自己设置的压缩包密码，不修改
 全部完成后，就能实现本地 7 天循环备份和 OSS 远程备份了！如果，之前已经做了七牛远程备份的可以放心取消了。
 
 在文章的最后，为了方便广大代码小白朋友，特提供本文涉及脚本的打包下载：
-<div id="down" class="down"><a id="load" class="d-popup" title="下载链接" href="https://zhang.ge/5111.html#button_file"><i class="fa fa-download"></i>下载地址</a>
+<div id="down" class="down">
+
+<a id="load" class="d-popup" title="下载链接" href="https://zhang.ge/5111.html#button_file"><i class="fa fa-download"></i>下载地址</a>
 <div class="clear"></div>
 </div>
 折腾吧，骚年！好用的话，有钱的可以打赏，没钱的欢迎点赞，不怕一万多，不嫌一块少。。。
