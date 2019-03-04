@@ -36,14 +36,10 @@ php, java 访问需要 stsToken</code></pre>
 </div>
 </div>
 <h1>命令行/非交互式</h1>
-<pre><code class="ruby">./ossutil64</code>config -e [endpoint二级域名] -i [<code class="ruby">accessKeyID</code>] -k [<code class="ruby">accessKeySecret</code>]
-
-
-</pre>
+<pre><code class="ruby">./ossutil64</code>config -e [endpoint二级域名] -i [<code class="ruby">accessKeyID</code>] -k [<code class="ruby">accessKeySecret</code>]</pre>
 <div class="show-content" data-note-content="">
 <div class="show-content-free">
-<pre>
-/var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
+<pre>/var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
 /var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
 
 #增量备份
@@ -55,6 +51,7 @@ php, java 访问需要 stsToken</code></pre>
 <ul>
  	<li>执行<code>./ossutil64 --help</code></li>
  	<li>访问官网教程，<a href="https://help.aliyun.com/document_detail/50455.html" target="_blank" rel="nofollow noopener">https://help.aliyun.com/document_detail/50455.html</a></li>
+ 	<li>windows 客户端[护卫神]  <a href="https://www.huweishen.com/help/hwsoss/1716.html">https://www.huweishen.com/help/hwsoss/1716.html </a></li>
 </ul>
 </div>
 </div>
