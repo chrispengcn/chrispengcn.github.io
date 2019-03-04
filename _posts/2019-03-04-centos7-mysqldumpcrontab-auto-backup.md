@@ -5,7 +5,8 @@ post_title: >
 author: chrispengcn
 post_excerpt: ""
 layout: post
-permalink: 'http://hss5.com/2019/03/04/centos7%e4%b8%8bmysqldumpcrontab%e8%87%aa%e5%8a%a8%e5%a4%87%e4%bb%bd%e6%95%b0%e6%8d%ae%e5%ba%93/'
+permalink: >
+  http://hss5.com/2019/03/04/centos7-mysqldumpcrontab-auto-backup/
 published: true
 post_date: 2019-03-04 17:21:55
 ---
@@ -39,7 +40,6 @@ find ${BACKUP} -name "${DATABASE}_*.sql.gz" -type f -mtime +5 -exec rm {} \; &gt
 在第3步添加任务时，可以如下写，表示每分钟备份一次，用以验证是否成功
 
 */1 * * * * /usr/sbin/bakmysql.sh
-
 
 看是否每分钟增加一份数据
 <pre>ls /bak/mysqldata</pre>
