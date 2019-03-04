@@ -20,7 +20,11 @@ ossutil工具旨在为用户提供一个方便的，以命令行方式管理OSS�
 当前版本未提供完整的Bucket管理功能和Multipart管理功能，相关功能会在后续版本中开发。现在如果有使用上述功能的需要，可以先使用<a href="https://help.aliyun.com/document_detail/32184.html" target="_blank" rel="nofollow noopener">osscmd</a>命令行工具。
 ossutil将逐步替代osscmd，除非需要ossutil不具备的Bucket管理功能外，因此，强烈推荐使用<a href="https://help.aliyun.com/document_detail/50452.html" target="_blank" rel="nofollow noopener">ossutil</a>。
 <h1>1. 下载安装</h1>
-<pre class="hljs cpp"><code class="cpp">https:<span class="hljs-comment">//help.aliyun.com/document_detail/50452.html</span></code></pre>
+<pre class="hljs cpp"><code class="cpp">https:<span class="hljs-comment">//help.aliyun.com/document_detail/50452.html
+</span></code></pre>
+<pre class="pre codeblock" data-spm-anchor-id="a2c4g.11186623.2.i0.36381594bhln8f"><code class="hljs crystal">wget <span class="hljs-symbol" data-spm-anchor-id="a2c4g.11186623.2.i1.36381594bhln8f">http:</span>/<span class="hljs-regexp">/gosspublic.alicdn.com/ossutil</span><span class="hljs-regexp">/1.4.2/ossutil</span>64</code></pre>
+<pre class="pre codeblock" data-spm-anchor-id="a2c4g.11186623.2.i2.36381594bhln8f"><code class="hljs angelscript" data-spm-anchor-id="a2c4g.11186623.2.i3.36381594bhln8f">chmod <span class="hljs-number">755</span> ossutil64</code></pre>
+<pre class="hljs cpp"><code class="cpp"></code></pre>
 <h1>2. 配置使用</h1>
 <pre class="hljs ruby"><code class="ruby">交互式
 $ ./ossutil64 config
