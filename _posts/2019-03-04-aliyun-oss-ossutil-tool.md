@@ -36,11 +36,17 @@ php, java 访问需要 stsToken</code></pre>
 </div>
 </div>
 <h1>命令行/非交互式</h1>
-<code class="ruby">./ossutil64</code>config -e [endpoint二级域名] -i [<code class="ruby">accessKeyID</code>] -k [<code class="ruby">accessKeySecret</code>]
+<pre><code class="ruby">./ossutil64</code>config -e [endpoint二级域名] -i [<code class="ruby">accessKeyID</code>] -k [<code class="ruby">accessKeySecret</code>]
+
+
+</pre>
 <div class="show-content" data-note-content="">
 <div class="show-content-free">
-<pre>/var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
+<pre>
 /var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
+/var/local/src/ossutil64 cp /[dir]/ oss://[bucketname]/[dir] -r -u
+
+#增量备份
 #[bucketname] bucket名称
 # -r 递归
 # -u 更新 update</pre>
