@@ -21,7 +21,9 @@ If you have ever run your WordPress website through <a href="https://developers
 </ul>
 <h2 id="what-is-leverage-browser-caching">What is the Leverage Browser Caching Warning?</h2>
 The <a href="https://developers.google.com/speed/docs/insights/LeverageBrowserCaching" target="_blank" rel="noopener noreferrer">leverage browser caching</a> warning, as shown below in the screenshot, is referring to your browser cache. Whenever you visit a website, it downloads assets, such as HTML, CSS, JavaScript and images into your browser’s local cache. This way it doesn’t have to retrieve them on every page load. The warning itself is returned when your web server, or a third-party server, doesn’t have the correct HTTP cache headers implemented. Or the headers might exist, but the cache time is set too short.
-<div id="attachment_6151" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2574" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights.png" width="1265" height="235" alt="leverage browser caching pagespeed insights" />
+<div id="attachment_6151" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2574" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights.png" alt="leverage browser caching pagespeed insights" width="1265" height="235" />
 <p class="wp-caption-text">Set an expiry date or age in HTTP headers</p>
 
 </div>
@@ -43,7 +45,9 @@ You might also see this warning in the new “<a href="https://testmysite.thinkw
 <div class="mt--10"><a class="button--purple button--small" href="https://kinsta.com/plans/?article-sidebar-promo">CHECK OUT OUR PLANS</a></div>
 </div>
 </div>
-<div id="attachment_6179" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2575" src="http://hss5.com/wp-content/uploads/2019/03/think-with-google-speed-test-1.jpg" width="1280" height="887" alt="think with google speed test" />
+<div id="attachment_6179" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2575" src="http://hss5.com/wp-content/uploads/2019/03/think-with-google-speed-test-1.jpg" alt="think with google speed test" width="1280" height="887" />
 <p class="wp-caption-text">think with Google speed test</p>
 
 </div>
@@ -52,7 +56,9 @@ As we are talking about Google Pagespeed Insights make sure you take a look at t
 When it comes to fixing the leverage browser caching warning there are a couple different scenarios that are usually encountered by WordPress users. Obviously, the most common one is that your web server is not correctly configured. The second irony is that the Google Analytic’s script gives us the warning. And the third is other third-party scripts returning the warning. See what your options are below.
 <h3>1. Leverage Browser Caching on Server</h3>
 The first and most common reason the leverage browser caching warning is triggered is that your web server doesn’t have the appropriate headers in place. In the screenshot below in Google PageSpeed Insights you will see the reason is that an <strong>expiration is not specified</strong>. When it comes to caching there are two primary methods which are used, <a href="https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers#http-cache-headers" target="_blank" rel="noopener noreferrer">Cache-Control headers and Expires headers</a>. While the Cache-Control header turns on client-side caching and sets the max-age of a resource, the Expires header is used to specify a specific point in time the resource is no longer valid.
-<div id="attachment_6149" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2576" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights-assets.png" width="1261" height="578" alt="leverage browser caching pagespeed insights assets" />
+<div id="attachment_6149" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2576" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights-assets.png" alt="leverage browser caching pagespeed insights assets" width="1261" height="578" />
 <p class="wp-caption-text">Leverage browser caching warning in Google PageSpeed Insights</p>
 
 </div>
@@ -106,18 +112,24 @@ You can check your headers in Chrome DevTools network panel or simply be re-runn
 <div class="mb--20 mt--0 heading--normal">Struggling with downtime and WordPress problems? Kinsta is the hosting solution designed to save you time! <a href="https://kinsta.com/features/">Check out our features</a></div>
 </div>
 </div>
-<div id="attachment_6154" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2577" src="http://hss5.com/wp-content/uploads/2019/03/caching-headers-wordpress.jpg" width="1280" height="705" alt="caching headers wordpress" />
+<div id="attachment_6154" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2577" src="http://hss5.com/wp-content/uploads/2019/03/caching-headers-wordpress.jpg" alt="caching headers wordpress" width="1280" height="705" />
 <p class="wp-caption-text">HTTP caching headers</p>
 
 </div>
 <h3>2. Leverage Browser Caching and Google Analytics</h3>
 The second most common leverage browser caching warning actually comes from Google Analytics. This is kind of ironic seeing as this is Google’s own script. The issue is that they set a low 2 hour cache time on their asset, as seen in the screenshot below. They most likely do this because if for some reason they were to modify something on there end they want all users to get the changes as fast as possible.  However there is a way to get around this, and that is by hosting Google Analytics script on your own server. Please be aware though that this is <a href="https://support.google.com/analytics/answer/1032389?hl=en" target="_blank" rel="noopener noreferrer">not supported by Google</a>.
-<div id="attachment_6150" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2578" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights-analytics.png" width="1265" height="452" alt="leverage browser caching-pagespeed insights analytics" />
+<div id="attachment_6150" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2578" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-pagespeed-insights-analytics.png" alt="leverage browser caching-pagespeed insights analytics" width="1265" height="452" />
 <p class="wp-caption-text">Google Analytics caching</p>
 
 </div>
 There is a great free little plugin called <a href="https://wordpress.org/plugins/host-analyticsjs-local/" target="_blank" rel="noopener noreferrer">Complete Analytics Optimization Suite</a>, created and developed by Daan van den Bergh, which allows you to host Google Analytics locally on your WordPress website.
-<div id="attachment_6155" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2579" src="http://hss5.com/wp-content/uploads/2019/03/host-google-analytics-locally-plugin.jpg" width="1280" height="408" alt="host google analytics locally plugin" />
+<div id="attachment_6155" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2579" src="http://hss5.com/wp-content/uploads/2019/03/host-google-analytics-locally-plugin.jpg" alt="host google analytics locally plugin" width="1280" height="408" />
 <p class="wp-caption-text">CAOS plugin</p>
 
 </div>
@@ -126,13 +138,17 @@ You can download Complete Analytics Optimization Suite from the WordPress repo
 Some additional benefits to hosting your analytics script locally is that you reduce your external HTTP requests to Google from 2 down to 1 and you now have <strong>full control over the caching of the file</strong>. This means you can utilize the cache headers as we showed you above.
 
 Just install the plugin, enter your Google Analytics Tracking ID, and the plugin adds the necessary tracking code for Google Analytics to your WordPress website, downloads and saves the analytics.js file to your server and keeps it updated using a scheduled script in wp_cron(). We recommend also setting it to load in the footer. Note: This plugin won’t work with other Google Analytics WordPress plugins.
-<div id="attachment_6157" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2580" src="http://hss5.com/wp-content/uploads/2019/03/local-analytics-settings.jpg" width="1280" height="1062" alt="local analytics settings" />
+<div id="attachment_6157" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2580" src="http://hss5.com/wp-content/uploads/2019/03/local-analytics-settings.jpg" alt="local analytics settings" width="1280" height="1062" />
 <p class="wp-caption-text">Locally hosted analytics settings</p>
 
 </div>
 <h3>3. What About Other 3rd Party Scripts?</h3>
 If you are running a business on your WordPress website, most likely you have additional <a href="https://kinsta.com/blog/identify-analyze-external-services-wordpress-site/" target="_blank" rel="noopener noreferrer">3rd party scripts</a> running to track conversions, <a href="https://kinsta.com/blog/wordpress-ab-testing-tools/" target="_blank" rel="noopener">A/B tests</a>, etc. This might include scripts like <a href="https://kinsta.com/blog/conversion-tracking/#fb-conversion-tracking" target="_blank" rel="noopener">Facebook conversion pixels</a>, Twitter, CrazyEgg, Hotjar, etc. Unfortunately, since you can’t host those locally there is nothing much that can be done as you don’t have control over the caching of those 3rd party assets. But for many smaller sites and bloggers, you most likely can get rid of that leverage browser caching warning altogether by following the recommendations above.
-<div id="attachment_6152" class="wp-caption alignnone"><img class="alignnone size-full wp-image-2581" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-3rd-party-scripts.png" width="1263" height="567" alt="leverage browser caching 3rd party scripts" />
+<div id="attachment_6152" class="wp-caption alignnone">
+
+<img class="alignnone size-full wp-image-2581" src="http://hss5.com/wp-content/uploads/2019/03/leverage-browser-caching-3rd-party-scripts.png" alt="leverage browser caching 3rd party scripts" width="1263" height="567" />
 <p class="wp-caption-text">Leverage browser caching warning from 3rd party scripts</p>
 
 </div>
