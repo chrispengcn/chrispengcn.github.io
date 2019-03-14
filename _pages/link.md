@@ -14,7 +14,9 @@ post_date: 2019-03-05 23:02:24
 
 wordpress + woocommerce 微信小程序 <a href="https://github.com/qwqoffice">https://github.com/qwqoffice</a>
 
-牛资料-学习资料大全 http://ziliao6.com/
+牛资料-学习资料大全 <a href="http://ziliao6.com/">http://ziliao6.com/</a>
+<p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="https://www.9ywk.com/wp-music.html">https://www.9ywk.com/wp-music.html</a></p>
+wordpress 视频插件 Smartideo <a href="https://wordpress.org/plugins/smartideo/">https://wordpress.org/plugins/smartideo/</a>
 
 ===============设计参考============
 
