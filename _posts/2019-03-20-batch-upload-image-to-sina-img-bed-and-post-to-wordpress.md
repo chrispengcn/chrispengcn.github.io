@@ -11,7 +11,7 @@ post_date: 2019-03-20 16:25:31
 ---
 安装 <strong>Embed image links - by Wonder  wordpress 插件</strong>
 
-使用新浪图床 http://img.hss5.com/  上传图片， 复制链接地址
+使用新浪图床 <a href="http://img.hss5.com/">http://img.hss5.com/</a>  上传图片， 复制链接地址
 
 &nbsp;
 
