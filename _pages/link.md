@@ -20,7 +20,6 @@ wordpress 视频插件 Smartideo <a href="https://wordpress.org/plugins/smartide
 
 幻想领域 新浪图床
 
-
 ===============设计参考============
 
 韩国电商购物导航  <a href="https://shopping.naver.com/">https://shopping.naver.com/</a>
@@ -37,4 +36,6 @@ Email: 945606236@qq.com
 
 QQ: 945606236
 
-&nbsp;
+<video autoplay loop="loop" id="background-video">  
+    <source src="https://media.yyenglish.cn/videobackground.webm" type="video/mp4">
+</video>
