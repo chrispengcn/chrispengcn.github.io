@@ -35,7 +35,3 @@ Contact me for Link Exchange:
 Email: 945606236@qq.com
 
 QQ: 945606236
-
-<video id="background-video" autoplay="autoplay" loop="loop" width="300" height="150">
-<source src="https://media.yyenglish.cn/videobackground.webm" type="video/mp4" />
-</video>
