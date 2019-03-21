@@ -8,15 +8,15 @@ permalink: http://hss5.com/contact-us/
 published: true
 post_date: 2013-08-15 15:04:09
 ---
-<span style="color: #ffffff;">Contact Us</span>
+Contact Us
 
-<span style="color: #ffffff;">友情链接申请</span>
+友情链接申请
 
-<span style="color: #ffffff;">email: 945606236@qq.com</span>
+email: 945606236@qq.com
 
-<span style="color: #ffffff;">qq:945606236</span>
+qq:945606236
 
-<span style="color: #ffffff;">moblie/wechat:  (+86) 18676917505</span>
+moblie/wechat:  (+86) 18676917505
 
 <video id="background-video" autoplay="autoplay" loop="loop" width="300" height="150">
 <source src="https://media.yyenglish.cn/videobackground.webm" type="video/mp4" />
