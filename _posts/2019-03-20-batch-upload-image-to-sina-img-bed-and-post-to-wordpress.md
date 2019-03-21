@@ -19,6 +19,8 @@ post_date: 2019-03-20 16:25:31
 
 so easy!
 
-&nbsp;
+如果需要插入媒体库 请安装
+<h1 class="plugin-title">External Media without Import</h1>
+https://wordpress.org/plugins/external-media-without-import/
 
 &nbsp;
