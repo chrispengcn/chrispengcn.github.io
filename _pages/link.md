@@ -8,7 +8,7 @@ permalink: http://hss5.com/link/
 published: true
 post_date: 2019-03-05 23:02:24
 ---
-===============建站资源============
+[vc_row][vc_column][vc_column_text]===============建站资源============
 
 200多款在线小工具  <a href="https://www.toolnb.com">https://www.toolnb.com</a>
 
@@ -17,10 +17,12 @@ wordpress + woocommerce 微信小程序 <a href="https://github.com/qwqoffice">h
 牛资料-学习资料大全 <a href="http://ziliao6.com/">http://ziliao6.com/</a>
 <p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="https://www.9ywk.com/wp-music.html">https://www.9ywk.com/wp-music.html</a></p>
 wordpress 视频插件 Smartideo <a href="https://wordpress.org/plugins/smartideo/">https://wordpress.org/plugins/smartideo/</a>
-https://iheian.com   BT 搜索
-https://ibaotu.com   音乐，视频素材
+https://iheian.com BT 搜索
+https://ibaotu.com 音乐，视频素材
 
-https://cloudconvert.com/mp4-to-webm      
+https://cloudconvert.com/mp4-to-webm
+
+<a href="http://www.5kkk.net/webdir/">http://www.5kkk.net/webdir/</a>网址目录大全
 
 ===============设计参考============
 
@@ -36,4 +38,4 @@ Contact me for Link Exchange:
 
 Email: 945606236@qq.com
 
-QQ: 945606236
+QQ: 945606236[/vc_column_text][/vc_column][/vc_row]
