@@ -50,32 +50,34 @@ WP2PCS-SY官方网站：http://www.syncy.cn
 <div class="image-gallery-content">
 <div class="image-gallery-slides">
 <div class="image-gallery-slide center">
-<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2670" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-1.jpg" width="1280" height="795" alt="" /></figure>
+<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2670" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-1.jpg" alt="" width="1280" height="795" /></figure>
 </div>
 <div class="image-gallery-slide right">
-<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2671" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-2.jpg" width="548" height="277" alt="" /></figure>
+<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2671" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-2.jpg" alt="" width="548" height="277" /></figure>
 </div>
 <div class="image-gallery-slide">
-<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2672" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-3.jpg" width="523" height="252" alt="" /></figure>
+<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2672" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-3.jpg" alt="" width="523" height="252" /></figure>
 </div>
 <div class="image-gallery-slide">
-<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2673" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-4.jpg" width="997" height="485" alt="" /></figure>
+<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2673" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-4.jpg" alt="" width="997" height="485" /></figure>
 </div>
 <div class="image-gallery-slide left">
-<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2674" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-5.jpg" width="823" height="253" alt="" /></figure>
+<figure class="image-gallery-image"><img class="alignnone size-full wp-image-2674" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-5.jpg" alt="" width="823" height="253" /></figure>
 </div>
 </div>
 </div>
 <div class="image-gallery-thumbnails">
-<div class="image-gallery-thumbnails-container"><button class="button-link image-gallery-thumbnail active" type="button"></button><button class="button-link image-gallery-thumbnail active" type="button"><img class="alignnone size-full wp-image-2675" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-1-1.jpg" width="1280" height="795" alt="" /></button>
+<div class="image-gallery-thumbnails-container">
+
+<button class="button-link image-gallery-thumbnail active" type="button"></button><button class="button-link image-gallery-thumbnail active" type="button"><img class="alignnone size-full wp-image-2675" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-1-1.jpg" alt="" width="1280" height="795" /></button>
 <div class="image-gallery-thumbnail-label"></div>
-<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2676" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-2-1.jpg" width="548" height="277" alt="" /></button>
+<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2676" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-2-1.jpg" alt="" width="548" height="277" /></button>
 <div class="image-gallery-thumbnail-label"></div>
-<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2677" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-3-1.jpg" width="523" height="252" alt="" /></button>
+<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2677" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-3-1.jpg" alt="" width="523" height="252" /></button>
 <div class="image-gallery-thumbnail-label"></div>
-<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2678" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-4-1.jpg" width="997" height="485" alt="" /></button>
+<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2678" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-4-1.jpg" alt="" width="997" height="485" /></button>
 <div class="image-gallery-thumbnail-label"></div>
-<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2679" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-5-1.jpg" width="823" height="253" alt="" /></button>
+<button class="button-link image-gallery-thumbnail" type="button"></button><button class="button-link image-gallery-thumbnail" type="button"><img class="alignnone size-full wp-image-2679" src="http://hss5.com/wp-content/uploads/2019/04/screenshot-5-1.jpg" alt="" width="823" height="253" /></button>
 <div class="image-gallery-thumbnail-label"></div>
 </div>
 </div>
