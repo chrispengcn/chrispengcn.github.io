@@ -24,6 +24,8 @@ https://cloudconvert.com/mp4-to-webm
 
 <a href="http://www.5kkk.net/webdir/">http://www.5kkk.net/webdir/</a>网址目录大全
 
+https://www.jqueryscript.net/menu/  jquery script
+
 ===============设计参考============
 
 韩国电商购物导航  <a href="https://shopping.naver.com/">https://shopping.naver.com/</a>
