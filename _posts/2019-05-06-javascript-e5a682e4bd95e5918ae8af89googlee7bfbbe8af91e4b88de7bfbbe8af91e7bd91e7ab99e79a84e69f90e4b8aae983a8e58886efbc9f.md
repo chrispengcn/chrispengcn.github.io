@@ -11,13 +11,17 @@ published: true
 post_date: 2019-05-06 11:53:07
 ---
 <header class="article-header"></header><article class="article-2018">
-<div class="question">Google翻译有一个<a href="http://translate.google.com/translate_tools">developer tool</a>，将启用网站上的google翻译。是否有办法让Google翻译不翻译网站的某个部分？也许在HTML元素上有类名？我试过<a href="http://dev.w3.org/html5/spec/global-attributes.html#the-translate-attribute">HTML5 translate=no</a>属性。它没有效果。
+<div class="question">
+
+Google翻译有一个<a href="http://translate.google.com/translate_tools">developer tool</a>，将启用网站上的google翻译。是否有办法让Google翻译不翻译网站的某个部分？也许在HTML元素上有类名？我试过<a href="http://dev.w3.org/html5/spec/global-attributes.html#the-translate-attribute">HTML5 translate=no</a>属性。它没有效果。
 
 这是一个特别的问题，因为Google会误译网站的名称。
 
 </div>
 <div class="answers_count">最佳答案</div>
-<div class="answers">根据<a href="https://cloud.google.com/translate/faq#technical_questions">Google instructions</a>，设置class =“notranslate”会阻止Google翻译。这似乎工作，虽然使用它内联(例如，一个单词)可能意味着一些混乱，所以你需要检查发生了什么。例如，
+<div class="answers">
+
+根据<a href="https://cloud.google.com/translate/faq#technical_questions">Google instructions</a>，设置class =“notranslate”会阻止Google翻译。这似乎工作，虽然使用它内联(例如，一个单词)可能意味着一些混乱，所以你需要检查发生了什么。例如，
 <pre class="prettyprint"><code><span class="typ">Welcome</span><span class="pln"> to the </span><span class="pun">&lt;</span><span class="pln">span </span><span class="kwd">class</span><span class="pun">=</span><span class="str">"notranslate"</span><span class="pun">&gt;</span><span class="typ">Cool</span><span class="pun">&lt;/</span><span class="pln">span</span><span class="pun">&gt;</span><span class="pln"> company website</span><span class="pun">!</span></code></pre>
 翻译成西班牙语“Bienvenido a la Coolweb de lacompañía！”，这不是那么酷，虽然它表明“酷”已被视为一个正确的名字;没有标记，文本将翻译为“Bienvenido a la fresca web de la empresa！”。
 
@@ -30,4 +34,6 @@ post_date: 2019-05-06 11:53:07
 底线是：您可以尝试使用class = notranslate防止翻译，但Google译码器的问题可能会导致混乱。
 
 </div>
-<ins class="adsbygoogle" data-ad-client="ca-pub-4364680260425390" data-ad-slot="7215561100" data-adsbygoogle-status="done"><ins id="aswift_1_expand"><ins id="aswift_1_anchor"></ins></ins></ins></article>
+&nbsp;
+
+</article>
