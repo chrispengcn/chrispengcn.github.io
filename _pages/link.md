@@ -36,6 +36,14 @@ Backlink Checker <a href="https://ahrefs.com/">https://ahrefs.com/</a>
 
 https://app.neilpatel.com/en/ubersuggest/
 
+<!--StartFragment -->
+<div>www.similarweb.com</div>
+<div>查平台流量的</div>
+<div>gs.statcounter.com</div>
+<div>查搜索引擎/社交媒体等占比的</div>
+<div>https://marketfinder.thinkwithgoogle.com/intl/en/</div>
+<div>谷歌全球商机洞察，查市场分布的</div>
+<div></div>
 ==========友情链接==============
 
 Contact me for Link Exchange:
