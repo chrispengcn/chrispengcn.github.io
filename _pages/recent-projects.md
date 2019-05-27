@@ -11,10 +11,5 @@ post_date: 2016-11-30 13:40:41
 http://www.uksnacksbox.com
 http://www.yestore.eu
 http://www.theokinawa.com
-http://super-in.com
-http://tangsoul.com
-http://miraco.com.au/
-http://www.bicerincoffee.com
-http://www.beachhead.com.cn
-http://orgasmtool.com
-http://ready.8toy.com
+http://www.03jw.com
+http://www.banqled.com
