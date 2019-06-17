@@ -17,10 +17,16 @@ wordpress + woocommerce 微信小程序 <a href="https://github.com/qwqoffice">h
 牛资料-学习资料大全 <a href="http://ziliao6.com/">http://ziliao6.com/</a>
 <p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="https://www.9ywk.com/wp-music.html">https://www.9ywk.com/wp-music.html</a></p>
 wordpress 视频插件 Smartideo <a href="https://wordpress.org/plugins/smartideo/">https://wordpress.org/plugins/smartideo/</a>
+
 https://iheian.com BT 搜索
+
 https://ibaotu.com 音乐，视频素材
 
+【mp4 转换】
 https://cloudconvert.com/mp4-to-webm
+
+免费开源SSH客户端神器MobaXterm，是时候puttty、Xshell和SecureCRT说Byebye了
+<a href="https://mobaxterm.mobatek.net/">https://mobaxterm.mobatek.net/</a>
 
 <a href="http://www.5kkk.net/webdir/">http://www.5kkk.net/webdir/</a>网址目录大全
 
