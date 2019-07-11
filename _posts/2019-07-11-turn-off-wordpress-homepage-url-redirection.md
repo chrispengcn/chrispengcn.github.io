@@ -22,20 +22,18 @@ Unfortunately, these methods can result in quite a bit of extra work. Fortunatel
 <h2>Why WordPress Has Automatic <acronym title="Uniform Resource Locator">URL</acronym> Redirects</h2>
 A page on any website, WordPress or not, can be accessed by multiple urls. For example, you can typically visit the home page of a WordPress web site by all of the following urls:
 <ul>
- 	<li>http://example.com/</li>
- 	<li>http://www.example.com/</li>
- 	<li>http://example.com/index.php</li>
- 	<li>http://www.example.com/index.php</li>
+ 	<li>//example.com/</li>
+ 	<li>//www.example.com/</li>
+ 	<li>//example.com/index.php</li>
+ 	<li>//www.example.com/index.php</li>
 </ul>
 The problem with allowing all of these ways to access a single page is that it can potentially hurt your website’s overall <strong>search engine optimization</strong> (<acronym title="Search Engine Optimization">SEO</acronym>). Having multiple urls for a page means that search engines could index duplicate copies. So WordPress fixes this problem by employing <em>automatic redirects</em> known as <strong>Canonical <acronym title="Uniform Resource Locator">URL</acronym>Redirection</strong>, which only enables one url per page.<em>
 </em>
 <h2>How To Turn Off Canonical <acronym title="Uniform Resource Locator">URL</acronym> Redirection</h2>
 To turn off Canonical <acronym title="Uniform Resource Locator">URL</acronym> Redirection, you can add the following code to your theme’s functions.php file.
-
-<code>remove_filter('template_redirect','redirect_canonical');</code>
-
-Not comfortable altering your theme files? <acronym title="WordPress">WP</acronym> developer Mark Jaquith has placed this code in his <a href="http://txfx.net/files/wordpress/disable-canonical-redirects.phps" target="_blank" rel="nofollow noopener noreferrer">Disable Canonical <acronym title="Uniform Resource Locator">URL</acronym> Redirection plugin</a>.
+<pre>remove_filter('template_redirect','redirect_canonical');</pre>
+Not comfortable altering your theme files? <acronym title="WordPress">WP</acronym> developer Mark Jaquith has placed this code in his <a href="//txfx.net/files/wordpress/disable-canonical-redirects.phps" target="_blank" rel="nofollow noopener noreferrer">Disable Canonical <acronym title="Uniform Resource Locator">URL</acronym> Redirection plugin</a>.
 
 &nbsp;
 
-To learn more about the introduction of Canonical URLs, see <a href="http://codex.wordpress.org/Migrating_Plugins_and_Themes_to_2.3#Canonical_URLs" target="_blank" rel="nofollow noopener noreferrer">Migrating Plugins and Themes to 2.3</a> in the WordPress Codex.
+To learn more about the introduction of Canonical URLs, see <a href="//codex.wordpress.org/Migrating_Plugins_and_Themes_to_2.3#Canonical_URLs" target="_blank" rel="nofollow noopener noreferrer">Migrating Plugins and Themes to 2.3</a> in the WordPress Codex.
