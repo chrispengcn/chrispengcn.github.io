@@ -62,8 +62,8 @@ QQ: 945606236
 
 ==========SEO 外链资源 ==============
 
-http://www.directory.ldmstudio.com/add/add.php
+//www.directory.ldmstudio.com/add/add.php
 
-&nbsp;
+http://www.apsense.com    [no-follow]
 
 [/vc_column_text][/vc_column][/vc_row]
