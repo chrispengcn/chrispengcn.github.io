@@ -38,7 +38,7 @@ wordpress 视频插件 Smartideo <a href="//wordpress.org/plugins/smartideo/">//
 
 ==========SEO TOOLS============
 
-https://www.searchenginejournal.com/   SEO 方法
+//www.searchenginejournal.com/   SEO 方法
 
 Backlink Checker <a href="//ahrefs.com/">//ahrefs.com/</a>
 
@@ -58,4 +58,12 @@ Contact me for Link Exchange:
 
 Email: 945606236@qq.com
 
-QQ: 945606236[/vc_column_text][/vc_column][/vc_row]
+QQ: 945606236
+
+==========SEO 外链资源 ==============
+
+http://www.directory.ldmstudio.com/add/add.php
+
+&nbsp;
+
+[/vc_column_text][/vc_column][/vc_row]
