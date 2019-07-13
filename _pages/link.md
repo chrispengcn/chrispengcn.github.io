@@ -1,53 +1,55 @@
 ---
 ID: 2528
-post_title: Link
+post_title: Useful Links
 author: chrispengcn
 post_excerpt: ""
 layout: page
-permalink: http://hss5.com/link/
+permalink: http://www.hss5.com/link/
 published: true
 post_date: 2019-03-05 23:02:24
 ---
 [vc_row][vc_column][vc_column_text]===============建站资源============
 
-200多款在线小工具  <a href="https://www.toolnb.com">https://www.toolnb.com</a>
+200多款在线小工具  <a href="//www.toolnb.com">//www.toolnb.com</a>
 
-wordpress + woocommerce 微信小程序 <a href="https://github.com/qwqoffice">https://github.com/qwqoffice</a>
+wordpress + woocommerce 微信小程序 <a href="//github.com/qwqoffice">//github.com/qwqoffice</a>
 
-牛资料-学习资料大全 <a href="http://ziliao6.com/">http://ziliao6.com/</a>
-<p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="https://www.9ywk.com/wp-music.html">https://www.9ywk.com/wp-music.html</a></p>
-wordpress 视频插件 Smartideo <a href="https://wordpress.org/plugins/smartideo/">https://wordpress.org/plugins/smartideo/</a>
+牛资料-学习资料大全 <a href="//ziliao6.com/">//ziliao6.com/</a>
+<p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="//www.9ywk.com/wp-music.html">//www.9ywk.com/wp-music.html</a></p>
+wordpress 视频插件 Smartideo <a href="//wordpress.org/plugins/smartideo/">//wordpress.org/plugins/smartideo/</a>
 
-https://iheian.com BT 搜索
+//iheian.com BT 搜索
 
-https://ibaotu.com 音乐，视频素材
+//ibaotu.com 音乐，视频素材
 
 【mp4 转换】
-https://cloudconvert.com/mp4-to-webm
+//cloudconvert.com/mp4-to-webm
 
 免费开源SSH客户端神器MobaXterm，是时候puttty、Xshell和SecureCRT说Byebye了
-<a href="https://mobaxterm.mobatek.net/">https://mobaxterm.mobatek.net/</a>
+<a href="//mobaxterm.mobatek.net/">//mobaxterm.mobatek.net/</a>
 
-<a href="http://www.5kkk.net/webdir/">http://www.5kkk.net/webdir/</a>网址目录大全
+<a href="//www.5kkk.net/webdir/">//www.5kkk.net/webdir/</a>网址目录大全
 
-https://www.jqueryscript.net/menu/  jquery script
+//www.jqueryscript.net/menu/  jquery script
 
 ===============设计参考============
 
-韩国电商购物导航  <a href="https://shopping.naver.com/">https://shopping.naver.com/</a>
+韩国电商购物导航  <a href="//shopping.naver.com/">//shopping.naver.com/</a>
 
 ==========SEO TOOLS============
 
-Backlink Checker <a href="https://ahrefs.com/">https://ahrefs.com/</a>
+https://www.searchenginejournal.com/   SEO 方法
 
-https://app.neilpatel.com/en/ubersuggest/
+Backlink Checker <a href="//ahrefs.com/">//ahrefs.com/</a>
+
+//app.neilpatel.com/en/ubersuggest/
 
 <!--StartFragment -->
 <div>www.similarweb.com</div>
 <div>查平台流量的</div>
 <div>gs.statcounter.com</div>
 <div>查搜索引擎/社交媒体等占比的</div>
-<div>https://marketfinder.thinkwithgoogle.com/intl/en/</div>
+<div>//marketfinder.thinkwithgoogle.com/intl/en/</div>
 <div>谷歌全球商机洞察，查市场分布的</div>
 <div></div>
 ==========友情链接==============
