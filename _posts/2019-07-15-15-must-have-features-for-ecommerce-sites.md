@@ -19,11 +19,11 @@ However, trends don’t guarantee conversion rates or robust user experiences. T
 
 Here is a list of 15 must-have features that attract online shoppers.
 <h2>1. User-Friendly</h2>
-This comes from the old <a href="https://en.wikipedia.org/wiki/KISS_principle" target="_blank" rel="noopener noreferrer">K.I.S.S. adage</a> about keeping it simple.
+This comes from the old <a href="//en.wikipedia.org/wiki/KISS_principle" target="_blank" rel="noopener noreferrer">K.I.S.S. adage</a> about keeping it simple.
 
 Simplicity should be a goal in good design and you don’t have to sacrifice elegance to achieve it.
 
-As a matter of fact, studies show that <a href="https://blog.hubspot.com/blog/tabid/6307/bid/14953/What-Do-76-of-Consumers-Want-From-Your-Website-New-Data.aspx" target="_blank" rel="noopener noreferrer">76%</a> of consumers say the most important characteristic of a website is ease of use.
+As a matter of fact, studies show that <a href="//blog.hubspot.com/blog/tabid/6307/bid/14953/What-Do-76-of-Consumers-Want-From-Your-Website-New-Data.aspx" target="_blank" rel="noopener noreferrer">76%</a> of consumers say the most important characteristic of a website is ease of use.
 
 The objective is to help shoppers get to what they want faster and without running into unnecessary complexity that can clog up the path to purchase.
 
@@ -33,27 +33,27 @@ To make your ecommerce site more user-friendly, consider the following:
 <ul>
  	<li>Improve search functionality with an autocomplete option like Under Armour:</li>
 </ul>
-<img class="alignnone size-full wp-image-3093" src="http://www.hss5.com/wp-content/uploads/2019/07/1.usability-autocomplete.png" width="1280" height="486" alt="1.usability-autocomplete" />
+<img class="alignnone size-full wp-image-3093" src="//www.hss5.com/wp-content/uploads/2019/07/1.usability-autocomplete.png" alt="1.usability-autocomplete" width="1280" height="486" />
 <ul>
  	<li>Create effective, visual navigation like Stanley:</li>
 </ul>
-<img class="aligncenter size-full wp-image-314781 b-lazy pcimg" src="data:;base64,<svg%20xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1758 1086"></svg>" sizes="(max-width: 1758px) 100vw, 1758px" alt="2. navigation-stanley" width="1758" height="1086" data-srcset="https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley.png 1758w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-480x297.png 480w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-680x420.png 680w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-768x474.png 768w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-1024x633.png 1024w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-1600x988.png 1600w" data-src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley.png" />
+<img class="aligncenter size-full wp-image-314781 b-lazy pcimg" />" sizes="(max-width: 1758px) 100vw, 1758px" alt="2. navigation-stanley" width="1758" height="1086" data-srcset="//cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley.png 1758w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-480x297.png 480w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-680x420.png 680w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-768x474.png 768w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-1024x633.png 1024w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley-1600x988.png 1600w" data-src="//cdn.searchenginejournal.com/wp-content/uploads/2019/07/2.-navigation-stanley.png" /&gt;
 <ul>
  	<li>Pre-populate forms like Target:</li>
 </ul>
-<img class="aligncenter size-full wp-image-314783 b-lazy pcimg" src="data:;base64,<svg%20xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2756 1426"></svg>" sizes="(max-width: 2756px) 100vw, 2756px" alt="3.usability-forms" width="2756" height="1426" data-srcset="https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms.png 2756w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-480x248.png 480w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-680x352.png 680w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-768x397.png 768w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-1024x530.png 1024w, https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-1600x828.png 1600w" data-src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms.png" />
+<img class="aligncenter size-full wp-image-314783 b-lazy pcimg" />" sizes="(max-width: 2756px) 100vw, 2756px" alt="3.usability-forms" width="2756" height="1426" data-srcset="//cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms.png 2756w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-480x248.png 480w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-680x352.png 680w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-768x397.png 768w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-1024x530.png 1024w, //cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms-1600x828.png 1600w" data-src="//cdn.searchenginejournal.com/wp-content/uploads/2019/07/3.usability-forms.png" /&gt;
 
 Ecommerce sites should be a competitive advantage instead of a troublesome experience.
 <h2>2. Mobile-Friendly Website</h2>
-Mobile shopping accounts for <a href="https://www.criteo.com/news/press-releases/2018/09/criteos-q2-2018-global-commerce-review-points-to-continued-worldwide-growth-of-in-app-transactions/" target="_blank" rel="noopener noreferrer">50%</a> of online transactions.
+Mobile shopping accounts for <a href="//www.criteo.com/news/press-releases/2018/09/criteos-q2-2018-global-commerce-review-points-to-continued-worldwide-growth-of-in-app-transactions/" target="_blank" rel="noopener noreferrer">50%</a> of online transactions.
 
 With a responsive website, content intuitively adapts to whatever device is accessing it to provide the most user-friendly experience.
 
-Walmart increased mobile sales by <a href="https://bluestout.com/blog/mobile-ecommerce-site-design-case-study/" target="_blank" rel="noopener noreferrer">98%</a> after optimizing its mobile site.
+Walmart increased mobile sales by <a href="//bluestout.com/blog/mobile-ecommerce-site-design-case-study/" target="_blank" rel="noopener noreferrer">98%</a> after optimizing its mobile site.
 
-<img class="alignnone size-full wp-image-3094" src="http://www.hss5.com/wp-content/uploads/2019/07/4.-walmart-mobile-480x854.jpeg" width="480" height="854" alt="4. walmart-mobile" />
+<img class="alignnone size-full wp-image-3094" src="//www.hss5.com/wp-content/uploads/2019/07/4.-walmart-mobile-480x854.jpeg" alt="4. walmart-mobile" width="480" height="854" />
 
-And Intelligentsia created a better purchase experience on mobile that led to a <a href="https://magento.com/case-studies/b2b2c-intelligentsia-coffee-perfect-blend" target="_blank" rel="noopener noreferrer">16%</a> increase in mobile transactions.
+And Intelligentsia created a better purchase experience on mobile that led to a <a href="//magento.com/case-studies/b2b2c-intelligentsia-coffee-perfect-blend" target="_blank" rel="noopener noreferrer">16%</a> increase in mobile transactions.
 
 It doesn’t matter if you have millions of product pages or five.
 
@@ -63,11 +63,11 @@ Gone are the days of posting one photo with a few bullet points and a price tag.
 
 Shoppers want to see multiple angles and people using the product in different environments. They want to be able to zoom in and get a feel for the product.
 
-Technical considerations for images are crucial. Images that don’t load or take too long to load will see a consumer drop-off rate of <a href="https://blogs.adobe.com/creative/files/2015/12/Adobe-State-of-Content-Report.pdf" target="_blank" rel="noopener noreferrer">39%</a>, according to Adobe.
+Technical considerations for images are crucial. Images that don’t load or take too long to load will see a consumer drop-off rate of <a href="//blogs.adobe.com/creative/files/2015/12/Adobe-State-of-Content-Report.pdf" target="_blank" rel="noopener noreferrer">39%</a>, according to Adobe.
 
-And, we’re not talking about just professional photos. Vanity Planet found that adding Instagram photos to their product pages increased checkouts by <a href="https://www.yotpo.com/blog/instagram-photos-increase-checkouts/" target="_blank" rel="noopener noreferrer">24%</a>.
+And, we’re not talking about just professional photos. Vanity Planet found that adding Instagram photos to their product pages increased checkouts by <a href="//www.yotpo.com/blog/instagram-photos-increase-checkouts/" target="_blank" rel="noopener noreferrer">24%</a>.
 
-<img class="alignnone size-full wp-image-3095" src="http://www.hss5.com/wp-content/uploads/2019/07/5.vanity-planet-instagram-photos.png" width="1280" height="655" alt="5.vanity planet-instagram photos" />
+<img class="alignnone size-full wp-image-3095" src="//www.hss5.com/wp-content/uploads/2019/07/5.vanity-planet-instagram-photos.png" alt="5.vanity planet-instagram photos" width="1280" height="655" />
 
 Images sell, not text.
 
@@ -75,7 +75,7 @@ Ecommerce websites should display multiple photos per product. The photos need t
 <h2>4. User-Generated Reviews</h2>
 Shoppers read reviews. About 95% of them, in fact.
 
-And <a href="https://www.brightlocal.com/learn/local-consumer-review-survey/" target="_blank" rel="noopener noreferrer">57%</a> of consumers will only use a business if it has 4 or more stars.
+And <a href="//www.brightlocal.com/learn/local-consumer-review-survey/" target="_blank" rel="noopener noreferrer">57%</a> of consumers will only use a business if it has 4 or more stars.
 
 You might think that having negative reviews is a sale killer. The opposite is actually true.
 
@@ -85,13 +85,13 @@ Depending on website functionality, ecommerce sites can use plugins from the mos
 
 Forward-thinking ecommerce sites, like Paiwen paddleboards, are using reviews as user-generated content to drive social proof and build raving fans.
 
-<img class="alignnone size-full wp-image-3096" src="http://www.hss5.com/wp-content/uploads/2019/07/Paiwen-UGC.png" width="851" height="877" alt="Paiwen-UGC" />
+<img class="alignnone size-full wp-image-3096" src="//www.hss5.com/wp-content/uploads/2019/07/Paiwen-UGC.png" alt="Paiwen-UGC" width="851" height="877" />
 <h2>5. Special Offers</h2>
 Most ecommerce sites are using special offers in their standard marketing practices via email, social, text, etc.
 
 Next-level ecommerce sites take advantage of the prime real estate in the header section to promote special offers.
 
-<img class="aligncenter size-full wp-image-181980 b-lazy pcimg" src="data:;base64,<svg%20xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1207 216"></svg>" sizes="(max-width: 1207px) 100vw, 1207px" alt="kendra-scott-offers-header" width="1207" height="216" data-srcset="https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header.png 1207w, https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-480x86.png 480w, https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-680x122.png 680w, https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-768x137.png 768w, https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-1024x183.png 1024w" data-src="https://cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header.png" />
+<img class="aligncenter size-full wp-image-181980 b-lazy pcimg" />" sizes="(max-width: 1207px) 100vw, 1207px" alt="kendra-scott-offers-header" width="1207" height="216" data-srcset="//cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header.png 1207w, //cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-480x86.png 480w, //cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-680x122.png 680w, //cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-768x137.png 768w, //cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header-1024x183.png 1024w" data-src="//cdn.searchenginejournal.com/wp-content/uploads/2016/12/kendra-scott-offers-header.png" /&gt;
 
 When shoppers realize they’re getting a special deal, it motivates them to buy more and spend more time searching the site.
 
@@ -99,7 +99,7 @@ If ecommerce sites are using ongoing promotions, providing a unique webpage that
 
 Consider the shopper searching [ZIP code + toyota special offers] and the value of that organic search result.
 
-<img class="alignnone size-full wp-image-3097" src="http://www.hss5.com/wp-content/uploads/2019/07/gst-special-offers.png" width="1165" height="217" alt="gst-special-offers" />
+<img class="alignnone size-full wp-image-3097" src="//www.hss5.com/wp-content/uploads/2019/07/gst-special-offers.png" alt="gst-special-offers" width="1165" height="217" />
 <h2>6. Wish Lists</h2>
 Oh, how I love wish lists. One for fashion, one for books to read, one for holiday gift ideas.
 
@@ -111,11 +111,11 @@ What’s better than having customers bookmark items they want and will most lik
 
 Just take a note from Amazon.
 
-<img class="alignnone size-full wp-image-3098" src="http://www.hss5.com/wp-content/uploads/2019/07/6.-amazon-wish-lists.png" width="1280" height="582" alt="6. Amazon - wish lists" />
+<img class="alignnone size-full wp-image-3098" src="//www.hss5.com/wp-content/uploads/2019/07/6.-amazon-wish-lists.png" alt="6. Amazon - wish lists" width="1280" height="582" />
 
 Retailers are creating these individualized options to drive engagement.
 
-In this <a href="https://www.youtube.com/watch?v=Da5UCFahQL4" target="_blank" rel="noopener noreferrer">webinar by Brendan Witcher of Forrester</a>, he shares how these can drive open rates as high as 80%, and 5x-10x higher return to purchase.
+In this <a href="//www.youtube.com/watch?v=Da5UCFahQL4" target="_blank" rel="noopener noreferrer">webinar by Brendan Witcher of Forrester</a>, he shares how these can drive open rates as high as 80%, and 5x-10x higher return to purchase.
 
 It’s also an opportunity to share a brand with new buyers. When shoppers share their wish lists with family and friends, it sends <strong>free traffic</strong> with built-in social proof to a website.
 <h2>7. Find-in-Store</h2>
@@ -129,10 +129,10 @@ Sometimes you don’t want to wait for an item to ship. You want instant gratifi
 Select your industry. Download your campaign template. Custom built with exact match keywords and converting ad copy with high clickthrough rates.
 
 </div>
-<div class="summitad-button"><a class="button-red sej-t-link border-none" href="https://www.spyfu.com/ppc/adwords-templates?c=sej" target="_blank" rel="nofollow noopener noreferrer" data-tk="true" data-event="2019 SpyFu : July 15- July 28 2019" data-event-label="2019 SpyFu : July 15- July 28 2019">Download Now!</a></div>
+<div class="summitad-button"><a class="button-red sej-t-link border-none" href="//www.spyfu.com/ppc/adwords-templates?c=sej" target="_blank" rel="nofollow noopener noreferrer" data-tk="true" data-event="2019 SpyFu : July 15- July 28 2019" data-event-label="2019 SpyFu : July 15- July 28 2019">Download Now!</a></div>
 </div>
-<div class="avert-text  margin-bottom-20  text-center">ADVERTISEMENT</div>
-Shoppers are going online just to research and then complete the purchase in person. This is especially true for millennials, as they <a href="https://www.retaildive.com/news/why-researching-online-shopping-offline-is-the-new-norm/442754/" target="_blank" rel="noopener noreferrer">tend to research online</a> before purchasing in a store.
+<div class="avert-text margin-bottom-20 text-center">ADVERTISEMENT</div>
+Shoppers are going online just to research and then complete the purchase in person. This is especially true for millennials, as they <a href="//www.retaildive.com/news/why-researching-online-shopping-offline-is-the-new-norm/442754/" target="_blank" rel="noopener noreferrer">tend to research online</a> before purchasing in a store.
 
 This makes it incredibly helpful to see which local stores have products in stock.
 <h2>8. Related Items</h2>
@@ -164,9 +164,9 @@ The company’s buyers need confirmation of watch authenticity and detailed prod
 
 An additional information section details frequently asked information, which establishes credibility and builds confidence with the buyer.
 
-<img class="alignnone size-full wp-image-3099" src="http://www.hss5.com/wp-content/uploads/2019/07/finewatchbank-additional-ino.png" width="695" height="886" alt="finewatchbank-additional-ino" />
+<img class="alignnone size-full wp-image-3099" src="//www.hss5.com/wp-content/uploads/2019/07/finewatchbank-additional-ino.png" alt="finewatchbank-additional-ino" width="695" height="886" />
 
-<a href="https://www.searchenginejournal.com/best-faq-page-examples/267709/">FAQ sections</a> also provide a self-help area to address common customer problems. Buyers often ask about product support, returns, lost account passwords, etc.
+<a href="//www.searchenginejournal.com/best-faq-page-examples/267709/">FAQ sections</a> also provide a self-help area to address common customer problems. Buyers often ask about product support, returns, lost account passwords, etc.
 <h2>10. Social Proof</h2>
 Brands and online sellers that connect with their buyers on an emotional level create brand trust and advocacy.
 
@@ -178,7 +178,7 @@ Shoppers are inundated with a constant flow of “buy now” and “get this”.
 
 Social media allows ecommerce brands to show authenticity and associate an emotional connection with their products.
 <ul>
- 	<li>Look at <a href="https://www.pinterest.com/nike/" target="_blank" rel="noopener noreferrer">Nike’s Pinterest</a> account to see how incorporating products with motivational images makes a huge impact.</li>
+ 	<li>Look at <a href="//www.pinterest.com/nike/" target="_blank" rel="noopener noreferrer">Nike’s Pinterest</a> account to see how incorporating products with motivational images makes a huge impact.</li>
  	<li>See how Ikea uses user-generated content to share design ideas and inspiration for how to use its products.</li>
  	<li>Check out how Lowe’s produces how-to videos that teach people how to use its products.</li>
 </ul>
@@ -203,7 +203,7 @@ In the world of Apple Pay and PayPal, advanced payment options are a must-have f
 
 Just consider the ease of use associated with Amazon one-click shopping. Shoppers with registered accounts can literally buy with the click of a button.
 
-There are many <a href="https://www.searchenginejournal.com/top-paypal-alternatives/274379/">popular online payment options</a>. The key is understanding who the buyer is and implementing the most effective solutions.
+There are many <a href="//www.searchenginejournal.com/top-paypal-alternatives/274379/">popular online payment options</a>. The key is understanding who the buyer is and implementing the most effective solutions.
 
 If your website is limiting payment options, make sure to explain why.
 
@@ -219,9 +219,9 @@ It’s also helpful to include delivery time and options for faster delivery. Si
 
 Interestingly, shoppers spend 30% more per order when free shipping is included. Be sure to present codes for free shipping on all pages of the site through the header navigation, if applicable.
 
-<img class="alignnone size-full wp-image-3100" src="http://www.hss5.com/wp-content/uploads/2019/07/victorias-secret-offers-header.png" width="1227" height="288" alt="victorias-secret-offers-header" />
+<img class="alignnone size-full wp-image-3100" src="//www.hss5.com/wp-content/uploads/2019/07/victorias-secret-offers-header.png" alt="victorias-secret-offers-header" width="1227" height="288" />
 <h2>14. Multi-Touchpoint Contact Page</h2>
-When it comes to running an ecommerce site where most business takes place online, nothing builds trust more than an overly obvious and well-presented “<a href="https://www.searchenginejournal.com/contact-us-page-examples/272283/">contact us</a>” feature. This is especially true when selling high-end merchandise or technical products.
+When it comes to running an ecommerce site where most business takes place online, nothing builds trust more than an overly obvious and well-presented “<a href="//www.searchenginejournal.com/contact-us-page-examples/272283/">contact us</a>” feature. This is especially true when selling high-end merchandise or technical products.
 
 Never make it hard for a buyer to get in touch or request support.
 
