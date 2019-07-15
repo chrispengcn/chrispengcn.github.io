@@ -4,7 +4,7 @@ post_title: Seo tools
 author: chrispengcn
 post_excerpt: ""
 layout: page
-permalink: http://www.hss5.com/seo-tools-2/
+permalink: http://www.hss5.com/seo-tools/
 published: true
 post_date: 2019-07-15 15:55:18
 ---
@@ -31,6 +31,6 @@ app.neilpatel.com/en/ubersuggest/
 <div>sitelinear.com</div>
 <div>网站内容分析  一个月免费分析一次</div>
 <div></div>
-<div>https://www.quetext.com/</div>
+<div>//www.quetext.com/</div>
 <div>原创内容检查</div>
 <div></div>
