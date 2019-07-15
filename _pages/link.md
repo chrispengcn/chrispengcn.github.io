@@ -1,6 +1,6 @@
 ---
 ID: 2528
-post_title: Useful Links
+post_title: Links
 author: chrispengcn
 post_excerpt: ""
 layout: page
@@ -66,6 +66,6 @@ QQ: 945606236
 
 //www.apsense.com    [no-follow]
 
-http://www.icdir.org/tijiao.asp
+//www.icdir.org/tijiao.asp
 
 [/vc_column_text][/vc_column][/vc_row]
