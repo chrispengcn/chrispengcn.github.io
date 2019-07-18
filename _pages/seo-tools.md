@@ -49,5 +49,7 @@ www.apsense.com    [no-follow]
 www.icdir.org/tijiao.asp
 
 </div>
-<div>http://www.folkd.com   软文外链发布</div>
+<div>www.folkd.com   软文外链发布</div>
+<div></div>
+<div>www.linkmarket.com       友情链接交换</div>
 <div></div>
