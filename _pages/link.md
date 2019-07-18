@@ -10,6 +10,12 @@ post_date: 2019-03-05 23:02:24
 ---
 [vc_row][vc_column][vc_column_text]===============建站资源============
 
+www.oddthemes.com       Free blogger templates
+
+btemplates.com                Free blogger templates
+
+&nbsp;
+
 200多款在线小工具  <a href="//www.toolnb.com">//www.toolnb.com</a>
 
 wordpress + woocommerce 微信小程序 <a href="//github.com/qwqoffice">//github.com/qwqoffice</a>
