@@ -24,19 +24,19 @@ wordpress + woocommerce 微信小程序 <a href="//github.com/qwqoffice">//githu
 <p class="entry-title">插件#Hermit X，WordPress 音乐播放器，支持SSL  <a href="//www.9ywk.com/wp-music.html">//www.9ywk.com/wp-music.html</a></p>
 wordpress 视频插件 Smartideo <a href="//wordpress.org/plugins/smartideo/">//wordpress.org/plugins/smartideo/</a>
 
-//iheian.com BT 搜索
+iheian.com BT 搜索
 
-//ibaotu.com 音乐，视频素材
+ibaotu.com 音乐，视频素材
 
 【mp4 转换】
-//cloudconvert.com/mp4-to-webm
+cloudconvert.com/mp4-to-webm
 
 免费开源SSH客户端神器MobaXterm，是时候puttty、Xshell和SecureCRT说Byebye了
-<a href="//mobaxterm.mobatek.net/">//mobaxterm.mobatek.net/</a>
+<a href="//mobaxterm.mobatek.net/">mobaxterm.mobatek.net/</a>
 
-<a href="//www.5kkk.net/webdir/">//www.5kkk.net/webdir/</a>网址目录大全
+<a href="//www.5kkk.net/webdir/">www.5kkk.net/webdir/</a>网址目录大全
 
-//www.jqueryscript.net/menu/  jquery script
+www.jqueryscript.net/menu/  jquery script
 
 ===============设计参考============
 
@@ -50,12 +50,6 @@ Email: 945606236@qq.com
 
 QQ: 945606236
 
-==========SEO 外链资源 ==============
-
-//www.directory.ldmstudio.com/add/add.php
-
-//www.apsense.com    [no-follow]
-
-//www.icdir.org/tijiao.asp
+&nbsp;
 
 [/vc_column_text][/vc_column][/vc_row]
