@@ -53,3 +53,6 @@ www.icdir.org/tijiao.asp
 <div></div>
 <div>www.linkmarket.com       友情链接交换</div>
 <div></div>
+<div>sedo.com     买卖域名，域名停靠</div>
+<div></div>
+<div>godaddy.com  买卖域名，域名停靠</div>
