@@ -31,6 +31,23 @@ app.neilpatel.com/en/ubersuggest/
 <div>sitelinear.com</div>
 <div>网站内容分析  一个月免费分析一次</div>
 <div></div>
-<div>//www.quetext.com/</div>
+<div>www.quetext.com/</div>
 <div>原创内容检查</div>
+<div></div>
+<div>textoptimizer.com</div>
+<div>文字优化</div>
+<div></div>
+<div></div>
+<div>
+
+==========SEO 外链资源 ==============
+
+www.directory.ldmstudio.com/add/add.php
+
+www.apsense.com    [no-follow]
+
+www.icdir.org/tijiao.asp
+
+</div>
+<div>http://www.folkd.com   软文外链发布</div>
 <div></div>
