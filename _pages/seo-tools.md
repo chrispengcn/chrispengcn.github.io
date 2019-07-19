@@ -14,7 +14,7 @@ semrush.com   seo 综合分析
 
 www.searchenginejournal.com/   SEO 方法
 
-https://majestic.com/    外链质量，锚文本检测
+//majestic.com/    外链质量，锚文本检测
 
 Backlink Checker <a href="//ahrefs.com/">ahrefs.com/</a>
 
@@ -39,12 +39,22 @@ app.neilpatel.com/en/ubersuggest/
 <div>textoptimizer.com</div>
 <div>文字优化</div>
 <div></div>
+<div>
 <div>================自动生成外链===================</div>
-<div>https://www.backlinkr.net/    俄罗斯</div>
-<div>http://www.jnwm.org/b?product_id=15      免费蜘蛛池</div>
-<div>http://www.6ke.com.cn/tool/      中文</div>
-<div>https://seo.dmeng.net/      超级外链</div>
-<div></div>
+<div>//www.backlinkr.net/    俄罗斯</div>
+<div>//www.jnwm.org/b?product_id=15      免费蜘蛛池</div>
+<div>//www.6ke.com.cn/tool/      中文</div>
+<div>//seo.dmeng.net/      超级外链</div>
+<div>https://www.duplichecker.com/backlink-maker.php</div>
+<div>https://smallseotools.com/ru/backlink-maker/</div>
+<div>https://sitechecker.pro/backlinks-generator/</div>
+<div>https://www.prepostseo.com/backlinks-maker</div>
+<div>https://theseotools.net/backlink-maker</div>
+<div>https://searchenginereports.net/backlink-maker</div>
+<div>http://hawkwebtools.com/backlinker/</div>
+<div>http://cleverstat.com/backlink-maker</div>
+<div>http://bulklink.org/</div>
+</div>
 <div></div>
 <div>www.bombstat.com       分析网站，并生成一条 nofollow 外链</div>
 <div></div>
