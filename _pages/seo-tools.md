@@ -37,6 +37,7 @@ app.neilpatel.com/en/ubersuggest/
 <div>textoptimizer.com</div>
 <div>文字优化</div>
 <div></div>
+<div>www.bombstat.com       分析网站，并生成一条 nofollow 外链</div>
 <div></div>
 <div>
 
