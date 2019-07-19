@@ -9,6 +9,7 @@ published: true
 post_date: 2019-07-15 15:55:18
 ---
 ==========SEO TOOLS============
+scoop.it   批量发链接
 
 semrush.com   seo 综合分析
 
@@ -45,15 +46,15 @@ app.neilpatel.com/en/ubersuggest/
 <div>//www.jnwm.org/b?product_id=15      免费蜘蛛池</div>
 <div>//www.6ke.com.cn/tool/      中文</div>
 <div>//seo.dmeng.net/      超级外链</div>
-<div>https://www.duplichecker.com/backlink-maker.php</div>
-<div>https://smallseotools.com/ru/backlink-maker/</div>
-<div>https://sitechecker.pro/backlinks-generator/</div>
-<div>https://www.prepostseo.com/backlinks-maker</div>
-<div>https://theseotools.net/backlink-maker</div>
-<div>https://searchenginereports.net/backlink-maker</div>
-<div>http://hawkwebtools.com/backlinker/</div>
-<div>http://cleverstat.com/backlink-maker</div>
-<div>http://bulklink.org/</div>
+<div>//www.duplichecker.com/backlink-maker.php</div>
+<div>//smallseotools.com/ru/backlink-maker/</div>
+<div>//sitechecker.pro/backlinks-generator/</div>
+<div>//www.prepostseo.com/backlinks-maker</div>
+<div>//theseotools.net/backlink-maker</div>
+<div>//searchenginereports.net/backlink-maker</div>
+<div>//hawkwebtools.com/backlinker/</div>
+<div>//cleverstat.com/backlink-maker</div>
+<div>//bulklink.org/</div>
 </div>
 <div></div>
 <div>www.bombstat.com       分析网站，并生成一条 nofollow 外链</div>
