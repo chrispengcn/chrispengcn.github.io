@@ -12,7 +12,9 @@ post_date: 2019-09-09 16:01:49
 <h1 class="entry-title">WooCommerce Visual Hook Guide: Single Product Page</h1>
 &nbsp;
 <pre>&lt;?php echo do_shortcode( '[ecp code="vtigerwebform"]' ); ?&gt;</pre>
-<pre>add_action( 'woocommerce_after_single_product' , 'shortcode_vtigerwebform', 5 );
+<pre># Edit the functions.php in your wordpress theme folder.
+
+add_action( 'woocommerce_after_single_product' , 'shortcode_vtigerwebform', 5 );
  
 function shortcode_vtigerwebform() {
     echo do_shortcode( '[ecp code="vtigerwebform"]' );
