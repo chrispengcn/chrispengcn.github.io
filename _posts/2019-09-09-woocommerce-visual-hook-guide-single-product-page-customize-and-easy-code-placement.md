@@ -19,9 +19,13 @@ add_action( 'woocommerce_after_single_product' , 'shortcode_vtigerwebform', 5 );
 function shortcode_vtigerwebform() {
     echo do_shortcode( '[ecp code="vtigerwebform"]' );
 }</pre>
-https://www.000webhost.com/blog/wordpress-do_shortcode/
+&nbsp;
+
+https://businessbloomer.com/woocommerce-visual-hook-guide-single-product-page/
 
 https://businessbloomer.com/woocommerce-add-content-below-the-single-product-page-images/
+
+https://www.000webhost.com/blog/wordpress-do_shortcode/
 
 https://wordpress.org/plugins/easy-code-placement/
 
