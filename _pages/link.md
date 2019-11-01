@@ -4,7 +4,7 @@ post_title: Links
 author: chrispengcn
 post_excerpt: ""
 layout: page
-permalink: http://www.hss5.com/link/
+permalink: https://www.hss5.com/link/
 published: true
 post_date: 2019-03-05 23:02:24
 ---
@@ -15,6 +15,8 @@ www.oddthemes.com       Free blogger templates
 btemplates.com                Free blogger templates
 
 https://www.advertcn.com/    广告中国，在线广告
+
+https://crisp.chat/en/livechat/   php 视频在线聊天插件
 
 200多款在线小工具  <a href="//www.toolnb.com">//www.toolnb.com</a>
 
