@@ -12,7 +12,7 @@ post_date: 2019-11-04 18:58:05
 <div class="banner-border"><img class="" src="https://mllj2j8xvfl0.i.optimole.com/w:1903/h:50/q:98/https://s15165.pcdn.co/wp-content/themes/themeisle/img/border.svg" alt="banner border" data-opt-src="https://mllj2j8xvfl0.i.optimole.com/w:auto/h:auto/q:98/https://s15165.pcdn.co/wp-content/themes/themeisle/img/border.svg" data-opt-lazy-loaded="true" data-opt-otimized-width="1903" data-opt-optimized-height="50" /></div>
 <div id="content">
 <div class="content-wrapper container">
-<div id="primary" class="span-8"><main id="main" class="container" role="main"><img class="alignnone size-full wp-image-3303" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email.png" width="792" height="396" alt="wordpress post by email" /><article id="post-16255" class="post-16255 post type-post status-publish format-standard has-post-thumbnail hentry category-wordpress-plugins">Sometimes you want to publish a post at your WordPress site…but you can’t, <em>or don’t want</em>, to use the WordPress editor. So what do you do then? Easy, you learn how to write a WordPress post by email!
+<div id="primary" class="span-8"><main id="main" class="container" role="main"><img class="alignnone size-full wp-image-3303" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email.png" alt="wordpress post by email" width="792" height="396" /></main><article id="post-16255" class="post-16255 post type-post status-publish format-standard has-post-thumbnail hentry category-wordpress-plugins">Sometimes you want to publish a post at your WordPress site…but you can’t, <em>or don’t want</em>, to use the WordPress editor. So what do you do then? Easy, you learn how to write a WordPress post by email!
 <div class="su-row">
 <div class="su-column su-column-size-1-2">
 <div class="su-column-inner su-clearfix">In this guide, I’ll show you two different methods you can use to write a WordPress post by email, as well as share some thoughts on the pros and cons of each method to help you pick which one is best for your site.</div>
@@ -51,7 +51,9 @@ To get started, you’ll need to install Jetpack and sync it to an existing Word
 If you need help getting Jetpack installed, you can <a href="https://jetpack.com/support/installing-jetpack/" target="_blank" rel="noopener noreferrer">follow this guide</a>:
 <div id="wp-pic-jetpack" class="wp-pic large plugin scheme2">
 <div class="wp-pic-large">
-<div class="wp-pic-large-content"><img class="alignnone size-full wp-image-3304" src="https://www.hss5.com/wp-content/uploads/2019/11/banner-772x250.png" width="772" height="250" alt="Jetpack by WordPress.com" />
+<div class="wp-pic-large-content">
+
+<img class="alignnone size-full wp-image-3304" src="https://www.hss5.com/wp-content/uploads/2019/11/banner-772x250.png" alt="Jetpack by WordPress.com" width="772" height="250" />
 <div class="wp-pic-half-first">
 <p class="wp-pic-author">Author(s): <a href="https://jetpack.com/">Automattic</a></p>
 <p class="wp-pic-version">Current Version: 7.8</p>
@@ -76,13 +78,13 @@ Scroll down to the bottom of the settings page and look for the <strong>Post by
  	<li>Use the toggle button to turn the feature on</li>
  	<li>Click the <strong>Create address </strong>button</li>
 </ul>
-<img class="alignnone size-full wp-image-3305" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-1.png" width="713" height="289" alt="enable wordpress post by email" />
+<img class="alignnone size-full wp-image-3305" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-1.png" alt="enable wordpress post by email" width="713" height="289" />
 
 Jetpack will then generate an email address.
 
 To write a WordPress post by email, you just need to send your email to this address:
 
-<img class="alignnone size-full wp-image-3306" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-2.png" width="711" height="300" alt="generate email address" />
+<img class="alignnone size-full wp-image-3306" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-2.png" alt="generate email address" width="711" height="300" />
 
 <strong>Keep this email private because anyone will be able to post to your blog by sending an email</strong>.
 <h3>Step 2: Format your emails properly</h3>
@@ -102,7 +104,9 @@ Setting up Postie is a little bit more technical than Jetpack, but putting in th
 To get started, install and activate the free Postie plugin:
 <div id="wp-pic-postie" class="wp-pic large plugin scheme2">
 <div class="wp-pic-large">
-<div class="wp-pic-large-content"><img class="alignnone size-full wp-image-3307" src="https://www.hss5.com/wp-content/uploads/2019/11/banner-772x250-1.png" width="772" height="250" alt="Postie" />
+<div class="wp-pic-large-content">
+
+<img class="alignnone size-full wp-image-3307" src="https://www.hss5.com/wp-content/uploads/2019/11/banner-772x250-1.png" alt="Postie" width="772" height="250" />
 <div class="wp-pic-half-first">
 <p class="wp-pic-author">Author(s): <a href="http://postieplugin.com/">Wayne Allen</a></p>
 <p class="wp-pic-version">Current Version: 1.9.38</p>
@@ -129,11 +133,11 @@ Once you get set up, you’ll send emails to this Gmail account to post them on 
 
 Once you have your new Gmail account, go to your Gmail dashboard and click on the <strong>Gear </strong>icon in the top-right corner. Then, choose <strong>Settings</strong>:
 
-<img class="alignnone size-full wp-image-3308" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-3.png" width="712" height="404" alt="access gmail account settings" />
+<img class="alignnone size-full wp-image-3308" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-3.png" alt="access gmail account settings" width="712" height="404" />
 
 Go to the <strong>Forward and POP/IMAP</strong> tab and select the radio button to <strong>Enable IMAP</strong>:
 
-<img class="alignnone size-full wp-image-3309" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-4.png" width="713" height="402" alt="configure imap" />
+<img class="alignnone size-full wp-image-3309" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-4.png" alt="configure imap" width="713" height="402" />
 
 Make sure to click <strong>Save Changes</strong> at the bottom.
 
@@ -150,13 +154,13 @@ Then, in the <strong>Mailserver </strong>tab, enter the following information:
  	<li><strong>Mail Userid</strong> – the Gmail email address that you just created</li>
  	<li><strong>Mail Password </strong>– the password for the Gmail address that you just created</li>
 </ul>
-<img class="alignnone size-full wp-image-3310" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-5.png" width="713" height="439" alt="configure postie settings" />
+<img class="alignnone size-full wp-image-3310" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-5.png" alt="configure postie settings" width="713" height="439" />
 
 Once you’ve entered everything, make sure to click <strong>Save Changes</strong>.
 
 Then, click the <strong>Test Config </strong>button on the right side to make sure everything is working:
 
-<img class="alignnone size-full wp-image-3311" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-6.png" width="711" height="336" alt="test config" />
+<img class="alignnone size-full wp-image-3311" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-6.png" alt="test config" width="711" height="336" />
 
 If all goes well, you should see a success message.
 
@@ -164,7 +168,7 @@ If all goes well, you should see a success message.
 
 Open that email and click the option to <strong>Allow access to less secure apps</strong>:
 
-<img class="alignnone size-full wp-image-3312" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-8.png" width="713" height="466" alt="gmail blocked" />
+<img class="alignnone size-full wp-image-3312" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-8.png" alt="gmail blocked" width="713" height="466" />
 
 Now, you should be able to successfully connect without Google blocking Postie.
 <h3>Step 3: Explore the other Postie settings</h3>
@@ -172,11 +176,11 @@ At this point, you’re all set up. But you should still explore the other Posti
 
 For example, in the <strong>User </strong>tab, you can configure which emails are allowed to post to your blog, including authorized email addresses that might not already be registered at your site:
 
-<img class="alignnone size-full wp-image-3313" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-9.png" width="712" height="394" alt="postie authorized users" />
+<img class="alignnone size-full wp-image-3313" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-9.png" alt="postie authorized users" width="712" height="394" />
 
 And in the <strong>Image</strong> tab, you can make Postie use the first image as the post’s <a href="https://themeisle.com/blog/blog-images-for-wordpress/">featured image</a>, as well as configure many other settings:
 
-<img class="alignnone size-full wp-image-3314" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-10.png" width="712" height="366" alt="postie image formatting" />
+<img class="alignnone size-full wp-image-3314" src="https://www.hss5.com/wp-content/uploads/2019/11/wordpress-post-by-email-10.png" alt="postie image formatting" width="712" height="366" />
 <h3>Step 4: Write your post</h3>
 To write a WordPress post by email with Postie, you just need to send an email to the Gmail account that you created in Step 1.
 
@@ -188,6 +192,8 @@ If you want the simplest method, you can use Jetpack – just remember to keep t
 
 And for better security, the Postie plugin restricts which incoming email addresses can post, though it does require a little bit more setup.
 
-</article></main></div>
+</article>&nbsp;
+
+</div>
 </div>
 </div>
