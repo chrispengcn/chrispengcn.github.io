@@ -163,7 +163,7 @@ On the left side, go to the <span class="system">“Listeners”</span> section 
 Port 80</pre>
 Change the port to 80 and save the configuration.
 
-<img class="alignnone size-full wp-image-3341" src="https://www.hss5.com/wp-content/uploads/2019/11/2018-06-19_183723.png" width="765" height="437" alt="" />
+<img class="alignnone size-full wp-image-3341" src="https://www.hss5.com/wp-content/uploads/2019/11/2018-06-19_183723.png" alt="" width="765" height="437" />
 
 <strong>For SSL 443</strong> follow this official documentation : <a href="https://openlitespeed.org/mediawiki/index.php/Help:SSL_Setup" target="_blank" rel="noopener noreferrer">https://openlitespeed.org/mediawiki/index.php/Help:SSL_Setup</a>
 
