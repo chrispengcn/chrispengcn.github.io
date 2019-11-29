@@ -46,6 +46,10 @@ www.jqueryscript.net/menu/  jquery script
 
 ==========友情链接==============
 
+<a href="https://www.shenqhy.com">神奇海域</a>  <a href="https://www.shenqhy.com">https://www.shenqhy.com</a>
+
+&nbsp;
+
 Contact me for Link Exchange:
 
 Email: 945606236@qq.com
