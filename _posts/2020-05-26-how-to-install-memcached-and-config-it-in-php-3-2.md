@@ -56,7 +56,6 @@ phpize
 make
 make install
 </pre>
-<div class="google-auto-placed ap_container"></div>
 If you get <strong>SASL error</strong> then we need disable sasl flag added to the config:
 <pre>cd /root
 git clone https://github.com/php-memcached-dev/php-memcached.git
