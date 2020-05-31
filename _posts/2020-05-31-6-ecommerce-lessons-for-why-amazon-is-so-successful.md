@@ -1,0 +1,136 @@
+---
+ID: 3637
+post_title: >
+  6 Ecommerce Lessons for Why Amazon is so
+  Successful
+author: chrispengcn
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.hss5.com/2020/05/31/6-ecommerce-lessons-for-why-amazon-is-so-successful/
+published: true
+post_date: 2020-05-31 13:03:26
+---
+Amazon has come a long way from its humble beginnings as an online bookseller. Since its launch in 1994, Amazon has grown to become an ecommerce behemoth. These days, it’s one of the first places shoppers turn to buy anything from cleaning products to the latest tech gadgets.
+
+And with over <a href="https://www.scrapehero.com/how-many-products-amazon-sell-worldwide-january-2018/">564 million products sold</a> in the U.S. alone, Amazon is the uncontested ecommerce leader and continues to grow and innovate.
+
+This success took years to achieve and is due in part to Amazon’s strategic approach to growth. Any ecommerce business, regardless of where they start, can learn from Amazon’s example to grow their business and attract and retain more customers.
+
+Here are six lessons that are at the center of <a href="https://www.sellbrite.com/blog/how-does-amazon-make-money/">why Amazon is so successful</a>. Use them to make your ecommerce business even stronger.
+<h2>1. Meet the needs of your customers</h2>
+Part of the reason for Amazon’s evolution from book retailer to “everything” retailer is its ability to tap into the power of referrals.
+
+Jeff Bezos, Amazon CEO, is <a href="https://www.inc.com/tommy-mello/this-5000-friends-strategy-made-amazon-more-successful-than-any-company-in-world.html">quoted as saying</a>, “It used to be that if you made a customer happy, they would tell five friends. Now, with the megaphone of the internet, whether online customer reviews or social media, they can tell 5,000 friends.”
+
+News travels at lightning speed across the internet, so to Bezos’ point, by offering customers a positive experience, Amazon grows when their customers share their experiences with their friends and family. This in turn drives new people to Amazon’s store to browse the product pages, experience the benefits for themselves, and then share about it.
+
+The key to sustaining long-term growth with this cycle is to take a customer-focused approach. Bezos <a href="https://www.inc.com/tommy-mello/this-5000-friends-strategy-made-amazon-more-successful-than-any-company-in-world.html">explains it this way</a>, “There are many ways to center a business. You can be competitor focused, you can be product focused, you can be technology focused, you can be business model focused, and there are more. But in my view, obsessive customer focus is by far the most protective of Day 1 vitality.”
+<h3>What you can do</h3>
+We live in an age where people share their experiences online, and personal referrals hold more weight than brand marketing.
+
+Use this audience preference to your advantage and focus on ways to make your customers happy. If you do a good job, your customers are more likely to share their experiences, which will help grow your customer base and increase your revenue—by lowering customer acquisition cost (CAC) and potentially boosting lifetime value (LTV).
+<h2>2. Incorporate data analysis into your decision making</h2>
+Amazon prides itself on its commitment to innovation and testing. They test every aspect of their business—from pricing to product selection—so that decisions are based on customer needs and not what Amazon <i>thinks</i> customers might want.
+
+As Bezos <a href="https://www.fastcompany.com/3067455/why-amazon-is-the-worlds-most-innovative-company-of-2017">puts it</a>, “Our customers are loyal to us right up until the second somebody offers them a better service. And I love that. It’s super-motivating for us.”
+
+In part, it’s this constant threat of customers switching to the competition that drives Amazon’s innovation. Even though it’s the largest ecommerce retailer, with <a href="https://www.digitalcommerce360.com/article/amazon-sales/">$232.89 billion in revenue in 2018</a> across all of its business segments, Amazon is constantly in competition with other businesses.
+
+For example, smart home devices are gaining momentum in the market. More customers are choosing to equip their homes with devices that make modern day living more interactive and seamless. To compete with a smart speaker like Google Home, Amazon continues to upgrade its Echo to include more distinctive features.
+
+In fact, Amazon Echo has grown to the point it makes up <a href="https://marketingland.com/analyst-amazon-echo-owns-75-percent-of-global-smart-speaker-market-251963">75% of the global smart speaker market</a>:
+
+<img class="aligncenter size-full wp-image-8385 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful.png" sizes="(max-width: 800px) 100vw, 800px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful.png 800w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-300x168.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-768x430.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-500x281.png 500w" alt="why amazon is so successful" width="800" height="448" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful.png 800w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-300x168.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-768x430.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-500x281.png 500w" data-lazy-sizes="(max-width: 800px) 100vw, 800px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful.png" data-was-processed="true" />
+
+[<a href="https://marketingland.com/analyst-amazon-echo-owns-75-percent-of-global-smart-speaker-market-251963">Source</a>]
+
+When it comes to features, Alexa on Amazon Echo was one of the first versions of voice-controlled tech. It was designed to make it easier for users to connect to the different devices they use. Amazon has gone further with its smart speaker tech to release the Amazon Echo Dot and the Amazon Echo Show to further cater to customers’ need to be connected.
+<h3><b>What you can do</b></h3>
+Be strategic about testing your products regularly and coming up with new ideas to meet evolving customer needs. For example, run A/B tests by selling limited edition products to test customer interest, send customer surveys, or use a <a href="https://www.sellbrite.com/blog/7-strategies-high-growth-ecommerce-referral-program/">Net Promoter Score (NPS)</a> survey to find who your promoters are and how many, so you can cater to their specific needs. This is your most valuable customer segment after all. Combine these efforts so that it’s easier to make decisions and create innovative products, features, and service based on data.
+<h2>3. Get to know your customers</h2>
+Amazon is constantly learning about its customers. For example, as customers search and add products to their cart, behavioral data shows trends that identify product preferences and buying behaviors.
+
+Amazon takes this information and shows customers products related to items they’ve recently browsed and makes recommendations based on their search habits:
+
+<img class="aligncenter size-full wp-image-8376 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1.png" sizes="(max-width: 992px) 100vw, 992px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1.png 992w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1-300x80.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1-768x205.png 768w" alt="" width="992" height="265" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1.png 992w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1-300x80.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1-768x205.png 768w" data-lazy-sizes="(max-width: 992px) 100vw, 992px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-1.png" data-was-processed="true" />
+
+At the bottom of the homepage, customers can also see more recommendations based on recent purchases and a history of products they’ve recently viewed. All of this information serves to personalize customers’ shopping experiences and guides them to buy more.
+
+Amazon takes personalization further by confirming whether or not a selected product ships to the location entered in the customer profile. This is incredibly helpful because it avoids customers adding items to their cart only to find out at checkout that they can’t receive it.
+
+<img class="aligncenter size-full wp-image-8377 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2.png" sizes="(max-width: 1333px) 100vw, 1333px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2.png 1333w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-300x133.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-768x340.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-1024x453.png 1024w" alt="why amazon is so successful" width="1333" height="590" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2.png 1333w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-300x133.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-768x340.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2-1024x453.png 1024w" data-lazy-sizes="(max-width: 1333px) 100vw, 1333px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-2.png" data-was-processed="true" />
+
+This tactic works because research shows that <a href="https://www.forbes.com/sites/shephyken/2017/10/29/personalized-customer-experience-increases-revenue-and-loyalty/#4d3265dc4bd6">customers expect personalized experiences</a>. When brands position themselves as partners in the shopping journey, it:
+<ul>
+ 	<li>reinforces the brand/customer relationship</li>
+ 	<li>improves the customer experience</li>
+ 	<li>improves conversions and boosts revenue</li>
+ 	<li>promotes customer loyalty and</li>
+ 	<li>increases retention</li>
+</ul>
+Product recommendations based on what Amazon knows about its customers are targeted and in-line with what customers want to buy or are interested in.
+<h3><b>What you can do</b></h3>
+Personalize your customers’ shopping experience. To start, add a list of products customers recently searched for at the bottom on your product pages. This way, it’s easy for them to link back to these products and eventually add them to their cart for purchase.
+
+On your homepage, list products customers might be interested in based on what they’ve purchased in the past. In the customer dashboard where they manage their profile information, give customers the option to reorder products they’ve purchased in the past. Amazon does this, which makes it quick and easy for customers to find what they need and buy it again.
+<h2>4. Build a community for your customers</h2>
+Research shows that <a href="https://crowdriff.com/user-generated-content-stats/">87% of customers</a> prefer product feedback from people they know and trust vs. brands. In fact, <a href="https://www.forbes.com/sites/johnellett/2018/02/08/new-research-shows-growing-impact-of-online-research-on-in-store-purchases/#785bf60116a0">45% of shoppers read reviews</a> before buying.
+
+Add to this the fact that <a href="https://www.forbes.com/sites/johnellett/2018/02/08/new-research-shows-growing-impact-of-online-research-on-in-store-purchases/#785bf60116a0">82% of customers</a> use their cell phones to conduct online research before they buy a product, and you have the perfect opportunity to <a href="https://www.sellbrite.com/blog/consumer-habits-evolving-2018/">build a community</a> designed to educate shoppers and move them along the <a href="https://www.appcues.com/blog/user-journey-map">customer journey</a><b> </b>quicker.
+
+Amazon uses a few different strategies to build its customer community. One way is it proactively asks recent customers to rate and review their experience:
+
+<img class="aligncenter size-full wp-image-8378 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3.png" sizes="(max-width: 836px) 100vw, 836px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3.png 836w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3-300x241.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3-768x616.png 768w" alt="why amazon is so successful" width="836" height="671" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3.png 836w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3-300x241.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3-768x616.png 768w" data-lazy-sizes="(max-width: 836px) 100vw, 836px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-3.png" data-was-processed="true" />
+
+This information is added to the list of customer reviews on the product page. These reviews also appear with a “verified purchase” flag, which adds to the trustworthiness of the review:
+
+<img class="aligncenter size-full wp-image-8379 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4.png" sizes="(max-width: 737px) 100vw, 737px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4.png 737w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4-300x256.png 300w" alt="" width="737" height="629" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4.png 737w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4-300x256.png 300w" data-lazy-sizes="(max-width: 737px) 100vw, 737px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-4.png" data-was-processed="true" />
+
+Amazon also offers a customer question-and-answer section at the bottom of its product pages to give shoppers the option to ask specific questions before they buy something. Past customers provide some of the answers:
+
+<img class="aligncenter size-full wp-image-8380 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5.png" sizes="(max-width: 1146px) 100vw, 1146px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5.png 1146w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-300x172.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-768x440.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-1024x586.png 1024w" alt="" width="1146" height="656" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5.png 1146w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-300x172.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-768x440.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5-1024x586.png 1024w" data-lazy-sizes="(max-width: 1146px) 100vw, 1146px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-5.png" data-was-processed="true" />
+
+Both of these options make it possible for shoppers to rely on other customers for information and not Amazon. Shoppers can read about honest experiences from other customers and base some of their purchase decisions on this.
+<h3><b>What you can do</b></h3>
+Send emails to customers after they receive their product and have had a chance to use it. Ask them for a review. Also, post requests for reviews in each customer’s personal dashboard, so when they log in, they’re reminded to submit a review directly on your site.
+
+Also, like Amazon, flag reviews to make it clear that they’re submitted by people who actually bought the products they’re reviewing.
+<h2>5. Build a loyalty program to incentivize customers</h2>
+Amazon launched Amazon Prime in 2005 and positioned it as a membership service that offered two-day free shipping and other benefits. Prime has evolved since then to also include exclusive offers at Whole Foods grocery stores, access to award-winning TV shows, access to their music streaming service called Amazon Music, and much more:
+
+<img class="aligncenter size-full wp-image-8381 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6.png" sizes="(max-width: 892px) 100vw, 892px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6.png 892w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6-300x158.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6-768x405.png 768w" alt="why amazon is so successful" width="892" height="470" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6.png 892w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6-300x158.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6-768x405.png 768w" data-lazy-sizes="(max-width: 892px) 100vw, 892px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-6.png" data-was-processed="true" />
+
+Then in 2015, the service gained even more attention when Amazon Prime Day was launched. For one day only, Amazon Prime members have access to deep discounts and exclusive offers.
+
+<img class="aligncenter size-full wp-image-8382 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7.png" sizes="(max-width: 1338px) 100vw, 1338px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7.png 1338w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-300x147.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-768x375.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-1024x501.png 1024w" alt="" width="1338" height="654" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7.png 1338w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-300x147.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-768x375.png 768w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7-1024x501.png 1024w" data-lazy-sizes="(max-width: 1338px) 100vw, 1338px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-7.png" data-was-processed="true" />
+
+This annual event, available globally, is a highlight for Prime members. In fact, there were over <a href="https://techcrunch.com/2018/07/18/amazon-prime-day-outage-cost/">100 billion products</a> sold globally during the most recent Prime Day. This beat out sales from Cyber Monday, Black Friday, and the last Prime Day.
+
+While Amazon Prime isn’t like most loyalty programs that customers automatically qualify for—you have to pay to join Amazon Prime—it does a good job of driving traffic to the store and encouraging shoppers to buy something.
+
+Customers want loyalty programs. In fact, <a href="https://www.claruscommerce.com/blog/17-staggering-customer-loyalty-stats-that-will-change-your-perspective/">71% of customers</a> choose to join loyalty programs because of the promise to save money on their purchases. 63% join because of the potential to receive products for free.
+
+Amazon has been able to tap into this need customers have to save money instantly when they shop. By offering special discounts and reduced or free shipping rates, shoppers are naturally drawn to Amazon to meet their purchase needs.
+<h3><b>What you can do</b></h3>
+Create a program that offers incentives that get customers to come back to the store regularly and take advantage of special offers. For example, include access to free shipping, limited time discounts, and other membership perks.
+
+Also, studies show that in addition to saving money, <a href="https://blog.smile.io/what-customers-expect-from-loyalty-program">79% of customers</a> want loyalty programs that care about them. Use this concept to offer special rewards and bonuses during important occasions like a membership anniversary or customer birthday.
+<h2>6. Think of new ways to evolve</h2>
+Amazon continues to grow as a result of its dedication to trying new things. Features like product reordering and returning damaged products aren’t standard practice for all ecommerce retailers.
+
+Something as simple as centralizing where customers track their orders:
+
+<img class="aligncenter size-full wp-image-8383 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8.png" sizes="(max-width: 930px) 100vw, 930px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8.png 930w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8-300x124.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8-768x318.png 768w" alt="why amazon is so successful" width="930" height="385" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8.png 930w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8-300x124.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8-768x318.png 768w" data-lazy-sizes="(max-width: 930px) 100vw, 930px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-8.png" data-was-processed="true" />
+
+or manage their returns:
+
+<img class="aligncenter size-full wp-image-8384 lazyloaded" src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9.png" sizes="(max-width: 932px) 100vw, 932px" srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9.png 932w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9-300x98.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9-768x251.png 768w" alt="why amazon is so successful" width="932" height="305" data-lazy-srcset="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9.png 932w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9-300x98.png 300w, https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9-768x251.png 768w" data-lazy-sizes="(max-width: 932px) 100vw, 932px" data-lazy-src="https://1e7npu8x7c2v3ec29y6nl9a5-wpengine.netdna-ssl.com/wp-content/uploads/why-amazon-is-so-successful-9.png" data-was-processed="true" />go a long way to helping Amazon become a company that’s constantly thinking of new ways to make the customer experience simple and seamless.
+
+Plus, once Amazon has shoppers’ attention, they think of new ways to keep their audience engaged. Whether it’s by introducing new TV and movie programming as part of Prime membership or access to new audio content, Amazon is always looking for new opportunities to evolve.
+<h3><b>What you can do</b></h3>
+To innovate, look at what your competitors offer and find gaps you can fill. Listen to what customers are saying on social media and ask your customer support reps to log any insights they get when customers call in.
+
+Use any avenue where customers share information as an opportunity to learn from them and improve your business and product offerings.
+<h2>Leveraging examples of what makes Amazon so successful</h2>
+Amazon was first launched in 1994. It’s experimented and learned lessons over time to become the ecommerce giant it is today. You don’t have to wait years to see results, but tackle your growth strategically. Start with small changes, test, and adjust. Be consistent with the changes you make, and over time you’ll begin to see the results.
