@@ -7,7 +7,7 @@ author: chrispengcn
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.hss5.com/2019/07/15/15-must-have-features-for-ecommerce-sites/
+  https://www.hss5.com/2019/07/15/15-must-have-features-for-ecommerce-sites/
 published: true
 post_date: 2019-07-15 19:47:59
 ---
