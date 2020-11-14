@@ -47,10 +47,8 @@ Default output format: json</pre>
 <p id="516f" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">This command will give the read permission to that and after that, you can download the file.</p>
 <p data-selectable-paragraph=""></p>
 <p data-selectable-paragraph=""></p>
+<p data-selectable-paragraph="">===========================</p>
 In order to use the AWS CLI with object storage service that provide an S3-compatible API like DigitalOcean Spaces, you must also configure a custom endpoint.
 
 This can be done on the command line using the <code>--endpoint</code> flag:
-<pre><code>aws s3 ls --endpoint=https://nyc3.digitaloceanspaces.com</code>
-
-
-<span class="comment-copy">Worth pointing out that there's no way currently to have a default endpoint. You gotta specify it every time. I usually alias it for convenience: <code>alias awsdo='aws --endpoint=https://nyc3.digitaloceanspaces.com'</code></span> – <a class="comment-user" title="8,778 reputation" href="https://stackoverflow.com/users/2062384/freedom-ben">Freedom_Ben</a> <span class="comment-date" dir="ltr"><a class="comment-link" href="https://stackoverflow.com/questions/53712255/how-to-use-aws-cli-with-digital-ocean-spaces#comment99722036_53713795"><span class="relativetime-clean" title="2019-06-12 23:47:38Z, License: CC BY-SA 4.0">Jun 12 '19 at 23:47</span></a></span></pre>
+<pre><code>aws s3 ls --endpoint=https://nyc3.digitaloceanspaces.com</code> <span class="comment-copy">Worth pointing out that there's no way currently to have a default endpoint. You gotta specify it every time. I usually alias it for convenience: <code>alias awsdo='aws --endpoint=https://nyc3.digitaloceanspaces.com'</code></span> – <a class="comment-user" title="8,778 reputation" href="https://stackoverflow.com/users/2062384/freedom-ben">Freedom_Ben</a> <span class="comment-date" dir="ltr"><a class="comment-link" href="https://stackoverflow.com/questions/53712255/how-to-use-aws-cli-with-digital-ocean-spaces#comment99722036_53713795"><span class="relativetime-clean" title="2019-06-12 23:47:38Z, License: CC BY-SA 4.0">Jun 12 '19 at 23:47</span></a></span></pre>
