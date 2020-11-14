@@ -36,10 +36,12 @@ Default output format: json</pre>
 <p id="784e" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">After you enter the relevant information, your aws is configured.</p>
 <p id="f08d" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">Now onto uploading the file and to do that following command will help you achieve it.</p>
 
-<pre>aws s3 cp &amp;lt;path-to-file-from-local&amp;gt; s3://&amp;lt;S3_BUCKET_NAME&amp;gt;/&amp;lt;folder-name&amp;gt; --acl public-read</pre>
+<pre>aws s3 cp &lt;path-to-file-from-local&gt; s3://&lt;S3_BUCKET_NAME&gt;/&lt;folder-name&gt; --acl public-read
+</pre>
 <p id="2216" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">eg: <strong class="gv co">aws s3 cp /home/nehalk/Desktop/file.txt s3://&lt;S3_BUCKET_NAME&gt;/resources — acl public-read</strong></p>
 <p id="cafc" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">And voila! Your file, file.txt has been uploaded from Desktop folder of your local machine to resources folder in S3 bucket.</p>
 <p id="5c27" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">Another useful command is to permit the given file to download it.</p>
 
-<pre>aws s3api put-object-acl --bucket &amp;lt;S3_BUCKET_NAME&amp;gt; --key &amp;lt;path-to-file-on-s3-bucket&amp;gt; --acl public-read</pre>
+<pre>aws s3api put-object-acl --bucket &lt;S3_BUCKET_NAME&gt; --key &lt;path-to-file-on-s3-bucket&gt; --acl public-read
+</pre>
 <p id="516f" class="gt gu eg gv b gw gx gy gz ha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq db fc" data-selectable-paragraph="">This command will give the read permission to that and after that, you can download the file.</p>
