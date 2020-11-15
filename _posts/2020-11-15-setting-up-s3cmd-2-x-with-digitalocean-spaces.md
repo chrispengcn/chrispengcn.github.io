@@ -41,7 +41,7 @@ s3cmd uses the options set in its default configuration file when you run comman
 
 If DigitalOcean is the main or only provider you'll connect to with <code>s3cmd</code> and you don't want to specify its configuration file every time you use s3cmd, configure the default <code>~/.s3cfg</code> file with the following command:
 <div class="code-toolbar">
-<pre class="  language-text"><code class="  language-text">s3cmd --configure</code></pre>
+<pre class=" language-text"><code class=" language-text">s3cmd --configure</code></pre>
 <div class="toolbar">
 <div class="toolbar-item"><a>Copy</a></div>
 </div>
@@ -52,94 +52,59 @@ The script begins by asking for an Access Key and Secret Key. If you don't alrea
 
 Enter your keys, then accept <code>US</code> for the <strong>Default Region</strong> because the region information isn't relevant to DigitalOcean. If you prefer, you can use the environment variables <code>AWS_ACCESS_KEY_ID</code> <code>AWS_SECRET_ACCESS_KEY</code> to store a set of keys.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="4,5"><code class="  language-text">Enter new values or accept defaults in brackets with Enter.
+<pre class=" language-text" data-line="4,5"><code class=" language-text">Enter new values or accept defaults in brackets with Enter.
 Refer to user manual for detailed description of all options.
 Access key and Secret key are your identifiers for Amazon S3. Leave them empty for using the env variables.
 Access Key []: EXAMPLE7UQOTHDTF3GK4
 Secret Key []: exampleb8e1ec97b97bff326955375c5
-Default Region [US]:</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="4" data-start="4"></div>
-<pre class="  language-text" data-line="4,5"><code class="  language-text"></code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="5" data-start="5"></div>
-<pre class="  language-text" data-line="4,5"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
+Default Region [US]:</code>
+
+Enter the DigitalOcean Endpoint</pre>
 </div>
-</div>
-<h2 id="enter-the-digitalocean-endpoint">Enter the DigitalOcean Endpoint<i class="fa fa-link fa-lg"></i></h2>
+<h2 id="enter-the-digitalocean-endpoint"></h2>
 Next, enter the DigitalOcean Spaces endpoint. The Spaces endpoint naming pattern is <code>&lt;region&gt;.digitaloceanspaces.com</code>, like <code>nyc3.digitaloceanspaces.com</code>. Use the endpoint for the region your Spaces are in.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="2"><code class="  language-text">Use "s3.amazonaws.com" for S3 Endpoint and not modify it to the target Amazon S3.
+<pre class=" language-text" data-line="2"><code class=" language-text">Use "s3.amazonaws.com" for S3 Endpoint and not modify it to the target Amazon S3.
 S3 Endpoint [s3.amazonaws.com]: nyc3.digitaloceanspaces.com</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="2" data-start="2"></div>
-<pre class="  language-text" data-line="2"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 The next prompt asks for a URL template to access your bucket, which is the S3 equivalent of a Space. Because Spaces supports <a href="https://www.digitalocean.com/docs/spaces/#features">DNS-based endpoint URLs</a>, you can use the variable <code>%(bucket)s</code> to stand in for the name of your space. Enter the following template format exactly as written: <code>%(bucket)s.nyc3.digitaloceanspaces.com</code>. Again, you will change this if your Space is in a different region.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="3"><code class="  language-text">Use "%(bucket)s.s3.amazonaws.com" to the target Amazon S3. "%(bucket)s" and "%(location)s" vars c
+<pre class=" language-text" data-line="3"><code class=" language-text">Use "%(bucket)s.s3.amazonaws.com" to the target Amazon S3. "%(bucket)s" and "%(location)s" vars c
 an be used if the target S3 system supports dns based buckets.
 DNS-style bucket+hostname:port template for accessing a bucket []: %(bucket)s.nyc3.digitaloceanspaces.com</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="3" data-start="3"></div>
-<pre class="  language-text" data-line="3"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 <h2 id="optional-set-an-encryption-password">Optional: Set an Encryption Password<i class="fa fa-link fa-lg"></i></h2>
 The next prompt is for an optional encryption password. Unlike HTTPS, which protects files only while in transit, GPG encryption prevents others from reading files both in transit and while they are stored on DigitalOcean. Setting a password now won't cause objects to be automatically encrypted; it just makes encryption available later.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="3"><code class="  language-text">Encryption password is used to protect your files from reading
+<pre class=" language-text" data-line="3"><code class=" language-text">Encryption password is used to protect your files from reading
 by unauthorized persons while in transfer to S3
 Encryption password:</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="3" data-start="3"></div>
-<pre class="  language-text" data-line="3"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 The next prompt asks for the path to the GPG program. On Linux, you can accept the default by pressing <code>ENTER</code>. If you're following these instructions on macOS, you may have to install GPG with a tool like <a href="https://brew.sh/">Homebrew</a> (<code>brew install gpg</code>). You can then find GPG's path with <code>which gpg</code>.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="1"><code class="  language-text">Path to GPG program [/usr/bin/gpg]:</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="1" data-start="1"></div>
-<pre class="  language-text" data-line="1"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
+<pre class=" language-text" data-line="1"><code class=" language-text">Path to GPG program [/usr/bin/gpg]:</code></pre>
 </div>
 <h2 id="connect-via-https">Connect via HTTPS<i class="fa fa-link fa-lg"></i></h2>
 The next prompt asks to use the HTTPS protocol. HTTPS protects data from being read while it's in transit.
 
 DigitalOcean Spaces don't support unencrypted transfer, so you must use HTTPS. Press <code>ENTER</code> to accept the default.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="4"><code class="  language-text">When using secure HTTPS protocol all communication with Amazon S3
+<pre class=" language-text" data-line="4"><code class=" language-text">When using secure HTTPS protocol all communication with Amazon S3
 servers is protected from 3rd party eavesdropping. This method is
 slower than plain HTTP, and can only be proxied with Python 2.7 or newer
 Use HTTPS protocol [Yes]: Yes</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="4" data-start="4"></div>
-<pre class="  language-text" data-line="4"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 <h2 id="optional-set-a-proxy-server">Optional: Set a Proxy Server<i class="fa fa-link fa-lg"></i></h2>
 The final prompt is for an HTTP proxy server. If your network requires one, enter its IP address or domain name without the protocol, e.g. <code>203.0.113.1 </code>or <code>proxy.example.com</code>. If you aren't using one, press <code>ENTER</code> to leave it blank.
 <div class="code-toolbar">
-<pre class="  language-text" data-line="3"><code class="  language-text">On some networks all internet access must go through a HTTP proxy.
+<pre class=" language-text" data-line="3"><code class=" language-text">On some networks all internet access must go through a HTTP proxy.
 Try setting it here if you can't connect to S3 directly
 HTTP Proxy server name:</code></pre>
-<div class=" line-highlight" aria-hidden="true" data-range="3" data-start="3"></div>
-<pre class="  language-text" data-line="3"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 <h2 id="confirm-test-and-save-settings">Confirm, Test, and Save Settings<i class="fa fa-link fa-lg"></i></h2>
 After the prompt for the HTTP Proxy server name, the configuration script presents a summary of the values it will use, followed by the opportunity to test them:
 <div class="code-toolbar">
-<pre class="  language-text" data-line="14"><code class="  language-text">New settings:
+<pre class=" language-text" data-line="14"><code class=" language-text">New settings:
  Access Key: EXAMPLES7UQOTHDTF3GK4
  Secret Key: b8e1ec97b97bff326955375c5example
  Default Region: US
@@ -154,14 +119,10 @@ yc3.digitaloceanspaces.com
 
 Test access with supplied credentials? [Y/n] Y</code></pre>
 <div class=" line-highlight" aria-hidden="true" data-range="14" data-start="14"></div>
-<pre class="  language-text" data-line="14"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 When the test completes successfully, enter <code>Y</code> to save the settings:
 <div class="code-toolbar">
-<pre class="  language-text" data-line="7"><code class="  language-text">Please wait, attempting to list all buckets...
+<pre class=" language-text" data-line="7"><code class=" language-text">Please wait, attempting to list all buckets...
 Success. Your access key and secret key worked fine :-)
 
 Now verifying that encryption works...
@@ -169,17 +130,10 @@ Success. Encryption and decryption worked fine :-)
 
 Save settings? [y/N] Y</code></pre>
 <div class=" line-highlight" aria-hidden="true" data-range="7" data-start="7"></div>
-<pre class="  language-text" data-line="7"><code class="  language-text"></code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
 </div>
 If the test fails or you choose <code>N</code> you'll have the opportunity to retry the configuration. Once you save the configuration, you'll receive confirmation of its location:
 <div class="code-toolbar">
-<pre class="  language-text"><code class="  language-text">Configuration saved to '/home/sammy/nyc3'</code></pre>
-<div class="toolbar">
-<div class="toolbar-item"><a>Copy</a></div>
-</div>
+<pre class=" language-text"><code class=" language-text">Configuration saved to '/home/sammy/nyc3'</code></pre>
 </div>
 <h2 id="more-information">More Information<i class="fa fa-link fa-lg"></i></h2>
 You can use our <a href="https://www.digitalocean.com/docs/spaces/resources/s3cmd-usage/">quick reference on s3cmd usage</a> to get started. For a comprehensive guide to s3cmd, see the <a href="http://s3tools.org/usage">s3cmd usage guide</a> or access the help file from the command line with <code>s3cmd --help</code>.
