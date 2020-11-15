@@ -57,9 +57,7 @@ Refer to user manual for detailed description of all options.
 Access key and Secret key are your identifiers for Amazon S3. Leave them empty for using the env variables.
 Access Key []: EXAMPLE7UQOTHDTF3GK4
 Secret Key []: exampleb8e1ec97b97bff326955375c5
-Default Region [US]:</code>
-
-Enter the DigitalOcean Endpoint</pre>
+Default Region [US]:</code> Enter the DigitalOcean Endpoint</pre>
 </div>
 <h2 id="enter-the-digitalocean-endpoint"></h2>
 Next, enter the DigitalOcean Spaces endpoint. The Spaces endpoint naming pattern is <code>&lt;region&gt;.digitaloceanspaces.com</code>, like <code>nyc3.digitaloceanspaces.com</code>. Use the endpoint for the region your Spaces are in.
