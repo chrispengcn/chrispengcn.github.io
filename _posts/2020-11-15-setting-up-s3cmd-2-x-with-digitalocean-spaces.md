@@ -18,18 +18,9 @@ https://www.digitalocean.com/docs/spaces/resources/s3cmd/
 
 Spaces is an S3-compatible object storage service that lets you store and serve large amounts of data. Each Space is a bucket for you to store and serve files. The free, built-in Spaces CDN minimizes page load times, improves performance, and reduces bandwidth and infrastructure costs.
 
-&nbsp;
+<nav class="section-nav">s3cmd is a popular cross-platform command-line tool for managing S3 and S3-compatible object stores.
 
-<nav class="section-nav">
-<ul>
- 	<li><a href="https://www.digitalocean.com/docs/spaces/">Overview</a></li>
- 	<li><a href="https://www.digitalocean.com/docs/spaces/quickstart/">Quickstart</a></li>
- 	<li><a href="https://www.digitalocean.com/docs/spaces/how-to/">How-To</a></li>
- 	<li class="current"><a href="https://www.digitalocean.com/docs/spaces/resources/">Resources</a></li>
-</ul>
-</nav>s3cmd is a popular cross-platform command-line tool for managing S3 and S3-compatible object stores.
-
-To use s3cmd with DigitalOcean Spaces, you need:
+</nav>To use s3cmd with DigitalOcean Spaces, you need:
 <ul>
  	<li><strong>s3cmd version 2.0.0+ or higher.</strong> You can check your version with <code>s3cmd --version</code>. Versions from package managers may be out of date, so we recommend using the <a href="http://s3tools.org/download">s3cmd download page</a>. <a href="https://brew.sh/">Homebrew</a> users can install the latest version with the command <code>brew install s3cmd</code>.</li>
  	<li><strong>An <a href="https://www.digitalocean.com/docs/spaces/how-to/manage-access/#access-keys">access key</a> pair for your Spaces.</strong> To generate these, visit the <a href="https://cloud.digitalocean.com/settings/api/tokens">API page</a> in the DigitalOcean Control Panel.</li>
