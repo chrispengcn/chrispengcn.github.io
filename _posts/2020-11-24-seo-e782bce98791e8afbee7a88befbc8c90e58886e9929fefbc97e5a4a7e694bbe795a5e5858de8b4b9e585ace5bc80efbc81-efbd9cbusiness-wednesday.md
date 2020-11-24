@@ -11,7 +11,7 @@ permalink: 'https://vpseo.com/2020/11/24/seo-%e7%82%bc%e9%87%91%e8%af%be%e7%a8%8
 published: true
 post_date: 2020-11-24 14:27:56
 ---
-[embed]https://www.youtube.com/watch?v=MpZebAg2rSs[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MpZebAg2rSs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 影片重点
 0:00 影片开始
