@@ -1,10 +1,10 @@
 ---
 ID: 13
 post_title: Contact Us
-author: chris
+author: chrispengcn
 post_excerpt: ""
 layout: page
-permalink: http://hss5.com/contact-us/
+permalink: https://vpseo.com/contact-us/
 published: true
 post_date: 2013-08-15 15:04:09
 ---
@@ -16,7 +16,6 @@ email: 945606236@qq.com
 
 qq:945606236
 
-moblie/wechat:  (+86) 18676917505
 
 <video id="background-video" autoplay="autoplay" loop="loop" width="300" height="150">
 <source src="https://media.yyenglish.cn/videobackground.webm" type="video/mp4" />
