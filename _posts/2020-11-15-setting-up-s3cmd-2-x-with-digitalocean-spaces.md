@@ -18,9 +18,7 @@ https://www.digitalocean.com/docs/spaces/resources/s3cmd/
 
 Spaces is an S3-compatible object storage service that lets you store and serve large amounts of data. Each Space is a bucket for you to store and serve files. The free, built-in Spaces CDN minimizes page load times, improves performance, and reduces bandwidth and infrastructure costs.
 
-<nav class="section-nav">s3cmd is a popular cross-platform command-line tool for managing S3 and S3-compatible object stores.
-
-</nav>To use s3cmd with DigitalOcean Spaces, you need:
+<nav class="section-nav">s3cmd is a popular cross-platform command-line tool for managing S3 and S3-compatible object stores.</nav>To use s3cmd with DigitalOcean Spaces, you need:
 <ul>
  	<li><strong>s3cmd version 2.0.0+ or higher.</strong> You can check your version with <code>s3cmd --version</code>. Versions from package managers may be out of date, so we recommend using the <a href="http://s3tools.org/download">s3cmd download page</a>. <a href="https://brew.sh/">Homebrew</a> users can install the latest version with the command <code>brew install s3cmd</code>.</li>
  	<li><strong>An <a href="https://www.digitalocean.com/docs/spaces/how-to/manage-access/#access-keys">access key</a> pair for your Spaces.</strong> To generate these, visit the <a href="https://cloud.digitalocean.com/settings/api/tokens">API page</a> in the DigitalOcean Control Panel.</li>
@@ -126,3 +124,25 @@ If the test fails or you choose <code>N</code> you'll have the opportunity to 
 </div>
 <h2 id="more-information">More Information<i class="fa fa-link fa-lg"></i></h2>
 You can use our <a href="https://www.digitalocean.com/docs/spaces/resources/s3cmd-usage/">quick reference on s3cmd usage</a> to get started. For a comprehensive guide to s3cmd, see the <a href="http://s3tools.org/usage">s3cmd usage guide</a> or access the help file from the command line with <code>s3cmd --help</code>.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+What is the command to sync ONLY files that:
+<ul>
+ 	<li>Do not exist in the destination bucket</li>
+ 	<li>Do exist in the destination bucket, but have different last-modified date, or different filesize</li>
+</ul>
+answer
+<div class="s-prose js-post-body">
+<pre><code>$ s3cmd sync &lt;source&gt; &lt;dest&gt;
+</code></pre>
+</div>
+<div class="mt24">
+<div class="grid fw-wrap ai-start jc-end gs8 gsy"><time datetime="2013-02-03T16:46:31"></time>
+<div class="grid--cell mr16"></div>
+</div>
+</div>
