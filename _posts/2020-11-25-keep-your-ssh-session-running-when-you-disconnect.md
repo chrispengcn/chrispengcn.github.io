@@ -6,7 +6,8 @@ post_title: >
 author: chrispengcn
 post_excerpt: ""
 layout: post
-permalink: 'https://vpseo.com/2020/11/25/ssh%e4%b8%ad%e6%96%ad%e5%af%bc%e8%87%b4%e8%bf%9c%e7%ab%af%e7%a8%8b%e5%ba%8f%e8%bf%90%e8%a1%8c%e7%bb%88%e6%ad%a2%e7%9a%84%e5%8e%9f%e7%90%86%e5%8f%8a%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/'
+permalink: >
+  https://vpseo.com/2020/11/25/keep-your-ssh-session-running-when-you-disconnect/
 published: true
 post_date: 2020-11-25 19:42:27
 ---
