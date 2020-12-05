@@ -8,7 +8,7 @@ post_excerpt: >
   中提供了一种属性，Transition（变换），这种属性能够实现在元素的某些属性的数值发生改变时产生过渡的效果。比如长度增加，能产生类似拉长的动画效果；颜色改变时，也可以利用Transition产生一种颜色渐变的效果。
 layout: post
 permalink: >
-  http://hss5.com/2017/02/02/css3-transition/
+  https://vpseo.com/2017/02/02/css3-transition/
 published: true
 post_date: 2017-02-02 10:28:42
 ---
@@ -17,55 +17,58 @@ post_date: 2017-02-02 10:28:42
 <div>
 <div>演示：http://codepen.io/linxiflash/pen/QdmqdO</div>
 <div></div>
-<div>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;</div>
-<div>&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;</div>
-<div>&lt;head&gt;</div>
-<div>&lt;meta http-equiv="Content-Type" content="text/html; charset=gb2312" /&gt;</div>
-<div>&lt;title&gt;CSS3.0平滑变动&lt;/title&gt;</div>
-<div>&lt;style type="text/css"&gt;</div>
-<div>li</div>
-<div>{</div>
-<div>float:left;</div>
-<div>border:1px #FFFFFF solid;</div>
-<div>text-align:center;</div>
-<div>}</div>
-<div>li a</div>
-<div>{</div>
-<div>-moz-transition: all 1s ease 0s;/*根据hover进行变化*/</div>
-<div>color:#FFFFFF;</div>
-<div>float:left;</div>
-<div>text-shadow:#FFFF00 0 -1px 2px;</div>
-<div>width:150px;</div>
-<div>background:#000000;</div>
-<div>height:150px;</div>
-<div>line-height:150px;</div>
-<div>text-decoration:none;</div>
-<div>}</div>
-<div>li a:hover</div>
-<div>{</div>
-<div>color:#000000;</div>
-<div>background:#FFFFFF;</div>
-<div>font-size:36px;</div>
-<div>text-shadow:0 -1px 2px #737373;</div>
-<div>}</div>
-<div>ul</div>
-<div>{</div>
-<div>list-style-type:none;</div>
-<div>margin:0px;</div>
-<div>padding:0 0 0 5px;</div>
-<div>}</div>
-<div>&lt;/style&gt;</div>
-<div>&lt;/head&gt;</div>
-<div></div>
-<div>&lt;body&gt;</div>
-<div>&lt;ul&gt;</div>
-<div>&lt;li&gt;&lt;a href="#"&gt;A&lt;/a&gt;&lt;/li&gt;</div>
-<div>&lt;li&gt;&lt;a href="#"&gt;B&lt;/a&gt;&lt;/li&gt;</div>
-<div>&lt;li&gt;&lt;a href="#"&gt;C&lt;/a&gt;&lt;/li&gt;</div>
-<div>&lt;li&gt;&lt;a href="#"&gt;D&lt;/a&gt;&lt;/li&gt;</div>
-<div>&lt;/ul&gt;</div>
-<div>&lt;/body&gt;</div>
-<div>&lt;/html&gt;</div>
+<div>
+<pre>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=gb2312" /&gt;
+&lt;title&gt;CSS3.0平滑变动&lt;/title&gt;
+&lt;style type="text/css"&gt;
+li
+{
+float:left;
+border:1px #FFFFFF solid;
+text-align:center;
+}
+li a
+{
+-moz-transition: all 1s ease 0s;/*根据hover进行变化*/
+color:#FFFFFF;
+float:left;
+text-shadow:#FFFF00 0 -1px 2px;
+width:150px;
+background:#000000;
+height:150px;
+line-height:150px;
+text-decoration:none;
+}
+li a:hover
+{
+color:#000000;
+background:#FFFFFF;
+font-size:36px;
+text-shadow:0 -1px 2px #737373;
+}
+ul
+{
+list-style-type:none;
+margin:0px;
+padding:0 0 0 5px;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+
+
+&lt;body&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="#"&gt;A&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#"&gt;B&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#"&gt;C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#"&gt;D&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+</div>
 </div>
 </div>
 <div>=====================================================</div>
