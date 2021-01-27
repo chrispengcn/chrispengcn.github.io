@@ -42,7 +42,7 @@ Meta Box的官网介绍说从2010年开始就专注于该插件的开发 ，目�
 安装步骤和其他插件无异，可以通过wordpress.org下载安装，或者如果你是PHP开发者，还可以通过PHP的包管理工具<a href="https://docs.metabox.io/composer/" target="_blank" rel="nofollow noopener noreferrer" data-from="10680"> composer </a>来进行引入 。
 
 和别的插件不同的是，安装完成之后没有任何介绍说明或者配置页面。你需要手动在 php 文件中手动设置。下面是一个调用API的例子，将下面的实例代码加入主题的function.php文件中，这会设置四个自定义字段 name, gender, email, biography. :
-<pre class="prism-token token  language-javascript"><span class="token function">add_filter</span><span class="token punctuation">(</span> <span class="token string">'rwmb_meta_boxes'</span><span class="token punctuation">,</span> <span class="token string">'prefix_meta_boxes'</span> <span class="token punctuation">)</span><span class="token punctuation">;</span>
+<pre class="prism-token token language-javascript"><span class="token function">add_filter</span><span class="token punctuation">(</span> <span class="token string">'rwmb_meta_boxes'</span><span class="token punctuation">,</span> <span class="token string">'prefix_meta_boxes'</span> <span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token keyword">function</span> <span class="token function">prefix_meta_boxes</span><span class="token punctuation">(</span> $meta_boxes <span class="token punctuation">)</span> <span class="token punctuation">{</span>
     $meta_boxes<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token function">array</span><span class="token punctuation">(</span>
         <span class="token string">'title'</span>  <span class="token operator">=&gt;</span> <span class="token string">'Test Meta Box'</span><span class="token punctuation">,</span>
@@ -80,18 +80,17 @@ Meta Box的官网介绍说从2010年开始就专注于该插件的开发 ，目�
 如果需要的字段比较多，手写起来还是很费事的，所以Meta Box也提供了一个在在线工具可以帮你快速生成代码, <a href="https://metabox.io/online-generator/" target="_blank" rel="nofollow noopener noreferrer" data-from="10680">form generator</a> .
 
 把上面的代码加入到你的 functions.php 文件后，新建一个文章或者页面，在编辑器下方就可以看到出现了一个新的meta box，在其中输入必要的信息如下：
-<figure>
-<div class="image-block"><img class="" src="https://ask.qcloudimg.com/http-save/yehe-4816158/1vvt36pru1.png?imageView2/2/w/1620" /></div></figure>
+
 test meta box
 <h3 id="%E6%98%BE%E7%A4%BA%E6%95%B0%E6%8D%AE">显示数据</h3>
 在上一步中已经创建了一个meta box，可以在其中输入和保存相关数据了，那么要使用这些数据要怎么做呢？有两种方式：
 <h4 id="%E9%80%9A%E8%BF%87%E5%87%BD%E6%95%B0%E6%9D%A5%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE">通过函数来获取数据</h4>
 Meta Box 提供了一个辅助函数<code>rwb_meta()</code>用来获取指定field的值，本质上这个函数是对WordPress自身函数<code>get_post_meta</code>的一层封装。如果想要在主题中显示出设置的自定义字段，使用函数的用法如下：
-<pre class="prism-token token  language-javascript">$value <span class="token operator">=</span> <span class="token function">rwmb_meta</span><span class="token punctuation">(</span> $field_id <span class="token punctuation">)</span><span class="token punctuation">;</span>
+<pre class="prism-token token language-javascript">$value <span class="token operator">=</span> <span class="token function">rwmb_meta</span><span class="token punctuation">(</span> $field_id <span class="token punctuation">)</span><span class="token punctuation">;</span>
 echo $value<span class="token punctuation">;</span></pre>
 <h4 id="%E9%80%9A%E8%BF%87%E7%9F%AD%E7%A0%81%E8%8E%B7%E5%8F%96">通过短码获取</h4>
 除了使用函数的方式之外，Meta Box还提供了一个短码<code>rwmb_meta</code>可以方便的在日志中调用自定义字段。 用法如下：
-<pre class="prism-token token  language-javascript"><span class="token punctuation">[</span>rwmb_meta meta_key<span class="token operator">=</span><span class="token string">"field_id"</span> post_id<span class="token operator">=</span><span class="token string">"15"</span> <span class="token operator">...</span><span class="token punctuation">]</span></pre>
+<pre class="prism-token token language-javascript"><span class="token punctuation">[</span>rwmb_meta meta_key<span class="token operator">=</span><span class="token string">"field_id"</span> post_id<span class="token operator">=</span><span class="token string">"15"</span> <span class="token operator">...</span><span class="token punctuation">]</span></pre>
 <h3 id="%E6%94%AF%E6%8C%81%E7%9A%84%E5%AD%97%E6%AE%B5%E7%B1%BB%E5%9E%8B%E5%92%8C%E6%89%A9%E5%B1%95%E6%8F%92%E4%BB%B6">支持的字段类型和扩展插件</h3>
 Meta Box支持多达46中字段类型，应有尽有 ，基本可以满足所有场景的需求，完整列表如下：
 <ul class="ul-level-0">
