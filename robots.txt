@@ -1,0 +1,28 @@
+# robots.txt for Hugo static site
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://chrispengcn.github.io/sitemap.xml
+
+# Disallow private/admin paths (Hugo doesn't generate these by default)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Crawl-delay to reduce server load
+Crawl-delay: 1

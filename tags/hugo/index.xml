@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on China B2B Bookmark</title><link>https://chrispengcn.github.io/tags/hugo/</link><description>Recent content in Hugo on China B2B Bookmark</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 14:30:00 +0800</lastBuildDate><atom:link href="https://chrispengcn.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Complete Guide to Building Static Websites with Hugo</title><link>https://chrispengcn.github.io/blog/2024/01/complete-guide-to-building-static-websites-with-hugo/</link><pubDate>Sat, 20 Jan 2024 14:30:00 +0800</pubDate><guid>https://chrispengcn.github.io/blog/2024/01/complete-guide-to-building-static-websites-with-hugo/</guid><description>&lt;h2 id="what-is-hugo"&gt;What is Hugo&lt;/h2&gt;
+&lt;p&gt;Hugo is a static website generator written in Go, known for its extremely fast build speed. Unlike dynamic CMS platforms like WordPress, Hugo generates all pages as static HTML files before deployment, resulting in lightning-fast performance and enhanced security.&lt;/p&gt;
+&lt;h3 id="advantages-of-hugo"&gt;Advantages of Hugo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Blazing Fast&lt;/strong&gt;: Large sites build in seconds&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple to Use&lt;/strong&gt;: Easy installation and configuration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Platform&lt;/strong&gt;: Supports Windows, macOS, and Linux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High Performance&lt;/strong&gt;: Static files cache perfectly on CDNs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secure&lt;/strong&gt;: No database, significantly reduced attack surface&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="installing-hugo"&gt;Installing Hugo&lt;/h2&gt;
+&lt;h3 id="macos"&gt;macOS&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;brew install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="linux"&gt;Linux&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="creating-your-first-site"&gt;Creating Your First Site&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Create new site&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo new site my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;cd my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Initialize Git&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Add a theme&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git submodule add https://github.com/themes/gohugo-theme-ananke.git themes/ananke
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Enable theme&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;echo &lt;span style="color:#e6db74"&gt;&amp;#34;theme = &amp;#39;ananke&amp;#39;&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; config.toml
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Create first post&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo new posts/my-first-post.md
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Start development server&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="directory-structure"&gt;Directory Structure&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;my-blog/
+├── archetypes/ # Content templates
+├── assets/ # Resource files
+├── content/ # Content directory
+│ └── posts/ # Blog posts
+├── data/ # Data files
+├── layouts/ # Layout templates
+├── public/ # Build output
+├── static/ # Static files
+└── themes/ # Themes
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id="theme-development-basics"&gt;Theme Development Basics&lt;/h2&gt;
+&lt;h3 id="creating-a-custom-theme"&gt;Creating a Custom Theme&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo new theme my-theme
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="hugo-templating-basics"&gt;Hugo Templating Basics&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-go-html-template" data-lang="go-html-template"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;{{&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;.Title&lt;/span&gt; &lt;span style="color:#75715e"&gt;}}&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;!-- Page title --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;{{&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;.Date&lt;/span&gt; &lt;span style="color:#75715e"&gt;}}&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;!-- Page date --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;{{&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;.Content&lt;/span&gt; &lt;span style="color:#75715e"&gt;}}&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;!-- Page content --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;{{&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;.Permalink&lt;/span&gt; &lt;span style="color:#75715e"&gt;}}&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;!-- Page permanent link --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;{{&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;.Site.Title&lt;/span&gt; &lt;span style="color:#75715e"&gt;}}&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;!-- Site title --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="content-management"&gt;Content Management&lt;/h2&gt;
+&lt;h3 id="front-matter-example"&gt;Front Matter Example&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;title&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Article Title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;date&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;2024-01-01T10:00:00&lt;/span&gt;&lt;span style="color:#ae81ff"&gt;+08&lt;/span&gt;:&lt;span style="color:#ae81ff"&gt;00&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;description&lt;/span&gt;: &lt;span style="color:#e6db74"&gt;&amp;#34;Article description&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;tags&lt;/span&gt;: [&lt;span style="color:#e6db74"&gt;&amp;#34;tag1&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;tag2&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;draft&lt;/span&gt;: &lt;span style="color:#66d9ef"&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="deployment"&gt;Deployment&lt;/h2&gt;
+&lt;h3 id="building-static-files"&gt;Building Static Files&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;hugo --minify
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="deploy-to-github-pages"&gt;Deploy to GitHub Pages&lt;/h3&gt;
+&lt;p&gt;Use GitHub Actions to automatically deploy your Hugo site on every commit.&lt;/p&gt;</description></item></channel></rss>
